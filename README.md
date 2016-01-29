@@ -11,7 +11,9 @@
 * К. В. Воронцов — [Машинное обучение: вводная лекция](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf)
 * Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 * Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/): «Может кому понадобится, кто тоже в первый раз видит питон».
-* Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/). 
+* Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/).
+* [immersive linear algebra](http://immersivemath.com/ila/index.html) – online linear algebra book with fully interactive figures.
+* Цикл статей [Titanic: Getting Started With R](http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r), в нём используется уже знакомый нам датасет Titanic. «It’s a wonderful entry-point to machine learning with a manageably small but very interesting dataset with easily understood variables».
 
 ## Курсы
 
@@ -31,5 +33,6 @@
 * «на [stepic.org](stepic.org) есть курс по Статистике. Местами чуть сумбурно(как я понял по прохождении и прочтении 2 книг дополнительно), но для начала лучше не придумать/не найти».
 * [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses).
 * [Probability and Statistics](https://www.khanacademy.org/math/probability).
+* [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (основы Python и немного про NumPy).
 
 Ссылки и цитаты я взяла из чатиков в Slack. В скобках — мои заметки и комментарии.
