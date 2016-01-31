@@ -16,6 +16,7 @@
 * [immersive linear algebra](http://immersivemath.com/ila/index.html) – online linear algebra book with fully interactive figures.
 * Цикл статей [Titanic: Getting Started With R](http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r), в нём используется уже знакомый нам датасет Titanic. «It’s a wonderful entry-point to machine learning with a manageably small but very interesting dataset with easily understood variables».
 * [Конспекты лекций](http://koddo.github.io/coursera-yandex-intro-to-machine-learning/).
+* Е. Соколов — [Семинары по машинному обучению](https://github.com/esokolov/ml-course-msu). Конспекты, код и прочие материалы к семинарам по машинному обучению, проводимым на ВМК МГУ.
 
 ## Курсы
 
@@ -41,4 +42,4 @@
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (основы Python и немного про NumPy).
 * [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft.
 
-Ссылки и цитаты я взяла из чатиков в Slack. В скобках — мои заметки и комментарии.
+Многие ссылки и цитаты я взяла из чатиков в Slack. В скобках — мои заметки и комментарии.
