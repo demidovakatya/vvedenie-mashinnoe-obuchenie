@@ -9,6 +9,7 @@
 * К. В. Воронцов — [Математические методы обучения по прецедентам (теория обучения машин)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
 * К. В. Воронцов — [Логические алгоритмы классификации](http://www.machinelearning.ru/wiki/images/9/97/Voron-ML-Logic-slides.pdf)
 * К. В. Воронцов — [Машинное обучение: вводная лекция](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf)
+* Е. Соколов — [Семинары по решающим деревьям](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem04_trees.pdf).
 * Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 * Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/): «Может кому понадобится, кто тоже в первый раз видит питон».
 * Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/).
