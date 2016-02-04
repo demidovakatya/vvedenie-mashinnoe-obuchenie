@@ -84,6 +84,8 @@
 
 Многие ссылки и цитаты я взяла из чатиков в Slack. В скобках — мои заметки и комментарии.
 
+![what is machine learning](http://i.imgur.com/v0O9qy2.jpg)
+
 ## Reddit
 
 Рекомендую посмотреть как минимум топ за всё время + sidebar в этих сабреддитах:
@@ -98,9 +100,9 @@
 
 ## Datasets
 
+![](https://files.slack.com/files-pri/T0KEG3FUM-F0LAEGUF7/need_more_data.jpg)
+
 * :exclamation: [Kaggle](https://www.kaggle.com/datasets);
 * [/r/datasets](https://www.reddit.com/r/datasets);
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/);
 * :octocat: [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets).
-
-![what is machine learning](http://i.imgur.com/v0O9qy2.jpg)
