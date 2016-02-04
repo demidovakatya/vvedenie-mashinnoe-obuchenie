@@ -9,19 +9,26 @@
 
 ## Литература
 
+Книги, статьи, онлайн-учебники.
+
 * К. В. Воронцов — [Математические методы обучения по прецедентам (теория обучения машин)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
 * К. В. Воронцов — [Логические алгоритмы классификации](http://www.machinelearning.ru/wiki/images/9/97/Voron-ML-Logic-slides.pdf)
 * К. В. Воронцов — [Машинное обучение: вводная лекция](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf)
-* Е. Соколов — [Семинары по решающим деревьям](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem04_trees.pdf).
-* Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
-* Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/): «Может кому понадобится, кто тоже в первый раз видит питон».
-* Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/).
-* [immersive linear algebra](http://immersivemath.com/ila/index.html) – online linear algebra book with fully interactive figures.
-* Цикл статей [Titanic: Getting Started With R](http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r), в нём используется уже знакомый нам датасет Titanic. «It’s a wonderful entry-point to machine learning with a manageably small but very interesting dataset with easily understood variables».
 * [Конспекты лекций](http://koddo.github.io/coursera-yandex-intro-to-machine-learning/).
 * Е. Соколов — [Семинары по машинному обучению](https://github.com/esokolov/ml-course-msu). Конспекты, код и прочие материалы к семинарам по машинному обучению, проводимым на ВМК МГУ.
+* Е. Соколов — [Семинары по решающим деревьям](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem04_trees.pdf).
+* Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
+* [immersive linear algebra](http://immersivemath.com/ila/index.html) – online linear algebra book with fully interactive figures.
+* Цикл статей [Titanic: Getting Started With R](http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r), в нём используется уже знакомый нам датасет Titanic. «It’s a wonderful entry-point to machine learning with a manageably small but very interesting dataset with easily understood variables».
+* Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/).
+* Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/): «Может кому понадобится, кто тоже в первый раз видит питон».
 * [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb), IPython-notebook на русском языке.
-* Урок про [Desicion Trees](http://scikit-learn.org/stable/modules/tree.html) на scikit-learn.org
+* [Scipy lecture notes](http://www.scipy-lectures.org/index.html). — Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques.
+* Урок про [Desicion Trees](http://scikit-learn.org/stable/modules/tree.html) на scikit-learn.org.
+* По Grid Search:
+ * [How to Tune Algorithm Parameters with Scikit-Learn](http://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/).
+ * [Python and Kaggle: Feature selection, multiple models and Grid Search](http://miguelmalvarez.com/2015/02/23/python-and-kaggle-feature-selection-multiple-models-and-grid-search/).
+ * [Grid-search and cross-validated estimators](http://www.scipy-lectures.org/packages/scikit-learn/#grid-search-and-cross-validated-estimators) на scipy-lectures.org
 
 Рекомендуемые книги для ML-специалиста:
 
