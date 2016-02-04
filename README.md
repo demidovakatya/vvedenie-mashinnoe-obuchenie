@@ -20,8 +20,10 @@
 * Цикл статей [Titanic: Getting Started With R](http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r), в нём используется уже знакомый нам датасет Titanic. «It’s a wonderful entry-point to machine learning with a manageably small but very interesting dataset with easily understood variables».
 * [Конспекты лекций](http://koddo.github.io/coursera-yandex-intro-to-machine-learning/).
 * Е. Соколов — [Семинары по машинному обучению](https://github.com/esokolov/ml-course-msu). Конспекты, код и прочие материалы к семинарам по машинному обучению, проводимым на ВМК МГУ.
+* [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb), IPython-notebook на русском языке.
+* Урок про [Desicion Trees](http://scikit-learn.org/stable/modules/tree.html) на scikit-learn.org
 
-Рекомендации от участников курса:
+Рекомендуемые книги для ML-специалиста:
 
 * [The Elements of Statistical Learning](http://web.stanford.edu/%7Ehastie/local.ftp/Springer/OLD/ESLII_print4.pdf);
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html);
