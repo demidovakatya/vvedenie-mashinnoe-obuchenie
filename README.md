@@ -100,8 +100,6 @@
 
 ## Datasets
 
-![](https://files.slack.com/files-pri/T0KEG3FUM-F0LAEGUF7/need_more_data.jpg)
-
 * :exclamation: [Kaggle](https://www.kaggle.com/datasets);
 * [/r/datasets](https://www.reddit.com/r/datasets);
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/);
