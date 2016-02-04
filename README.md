@@ -5,8 +5,6 @@
 * [Литература](#Литература)
 * [Курсы](#Курсы)
 
-![what is machine learning](http://i.imgur.com/v0O9qy2.jpg)
-
 ## Литература
 
 Книги, статьи, онлайн-учебники.
@@ -30,6 +28,9 @@
  * [Python and Kaggle: Feature selection, multiple models and Grid Search](http://miguelmalvarez.com/2015/02/23/python-and-kaggle-feature-selection-multiple-models-and-grid-search/).
  * [Grid-search and cross-validated estimators](http://www.scipy-lectures.org/packages/scikit-learn/#grid-search-and-cross-validated-estimators) на scipy-lectures.org
  * [Grid Search](http://scikit-learn.org/stable/modules/grid_search.html#grid-search) на scikit-learn.org
+* Логистическая регрессия:
+ * [Подробнее о логистической регрессии и предсказании вероятностей с ее помощью](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem10_linear.pdf)
+ * [Подробнее о градиентах и градиентном спуске](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem07_linear.pdf)
 
 Рекомендуемые книги для ML-специалиста:
 
@@ -68,3 +69,5 @@
 * [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft.
 
 Многие ссылки и цитаты я взяла из чатиков в Slack. В скобках — мои заметки и комментарии.
+
+![what is machine learning](http://i.imgur.com/v0O9qy2.jpg)
