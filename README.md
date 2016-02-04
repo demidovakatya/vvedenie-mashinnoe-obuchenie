@@ -29,6 +29,7 @@
  * [How to Tune Algorithm Parameters with Scikit-Learn](http://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/).
  * [Python and Kaggle: Feature selection, multiple models and Grid Search](http://miguelmalvarez.com/2015/02/23/python-and-kaggle-feature-selection-multiple-models-and-grid-search/).
  * [Grid-search and cross-validated estimators](http://www.scipy-lectures.org/packages/scikit-learn/#grid-search-and-cross-validated-estimators) на scipy-lectures.org
+ * [Grid Search](http://scikit-learn.org/stable/modules/grid_search.html#grid-search) на scikit-learn.org
 
 Рекомендуемые книги для ML-специалиста:
 
