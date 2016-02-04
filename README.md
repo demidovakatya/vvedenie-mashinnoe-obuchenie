@@ -2,6 +2,9 @@
 
 Репка для курса «Введение в машинное обучение» от Яндекса.
 
+* [Литература](#Литература)
+* [Курсы](#Курсы)
+
 ![what is machine learning](http://i.imgur.com/v0O9qy2.jpg)
 
 ## Литература
@@ -17,6 +20,18 @@
 * Цикл статей [Titanic: Getting Started With R](http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r), в нём используется уже знакомый нам датасет Titanic. «It’s a wonderful entry-point to machine learning with a manageably small but very interesting dataset with easily understood variables».
 * [Конспекты лекций](http://koddo.github.io/coursera-yandex-intro-to-machine-learning/).
 * Е. Соколов — [Семинары по машинному обучению](https://github.com/esokolov/ml-course-msu). Конспекты, код и прочие материалы к семинарам по машинному обучению, проводимым на ВМК МГУ.
+
+Рекомендации от участников курса:
+
+* [The Elements of Statistical Learning](http://web.stanford.edu/%7Ehastie/local.ftp/Springer/OLD/ESLII_print4.pdf);
+* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html);
+* [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219);
+* [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies)
+* [Doing data science](http://shop.oreilly.com/product/0636920028529.do)
+* [R in action](https://www.manning.com/books/r-in-action)
+* [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/)
+
+Посмотреть тред или внести свои предложения можно ([здесь](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/issues/1)).
 
 ## Курсы
 
