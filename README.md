@@ -76,6 +76,7 @@
  * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info).
  * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3).
  * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0)
+* [Learning from Data](https://work.caltech.edu/telecourse.html). «Его особенность - нет привязки к языку какому-либо. Дали задание, например, посчитать лин регрессию - дальше делайте как хотите».
 * «на [stepic.org](stepic.org) есть курс по Статистике. Местами чуть сумбурно(как я понял по прохождении и прочтении 2 книг дополнительно), но для начала лучше не придумать/не найти».
 * [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses).
 * [Probability and Statistics](https://www.khanacademy.org/math/probability).
