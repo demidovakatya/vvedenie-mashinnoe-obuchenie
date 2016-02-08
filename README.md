@@ -34,6 +34,7 @@
 * Логистическая регрессия:
  * [Подробнее о логистической регрессии и предсказании вероятностей с ее помощью](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem10_linear.pdf)
  * [Подробнее о градиентах и градиентном спуске](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem07_linear.pdf)
+ * [Семинары по выбору моделей и критериев качества](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem05_metrics.pdf)
 
 ### Python, IPython, Scikit-learn etc
 
