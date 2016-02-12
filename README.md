@@ -22,6 +22,7 @@
 * Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 * [immersive linear algebra](http://immersivemath.com/ila/index.html) – online linear algebra book with fully interactive figures.
 * Цикл статей [Titanic: Getting Started With R](http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r), в нём используется уже знакомый нам датасет Titanic. «It’s a wonderful entry-point to machine learning with a manageably small but very interesting dataset with easily understood variables».
+* [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
 
 ### Отдельные темы
 
