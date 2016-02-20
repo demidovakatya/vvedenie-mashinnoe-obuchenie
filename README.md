@@ -39,6 +39,7 @@
  * [Подробнее о градиентах и градиентном спуске](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem07_linear.pdf)
  * [Методичка по методам спуска и градиентам](http://www.apmath.spbu.ru/ru/staff/grigorieva/mfk.pdf)
 * [Подробнее о градиентном бустинге и особенностях его применения к деревьям](http://www.machinelearning.ru/wiki/images/7/7e/Sem03_ensembles_2014.pdf)
+* К. В. Воронцов — [Лекции по искусственным нейронным сетям](http://www.ccas.ru/voron/download/NeuralNets.pdf)
 
 ### Python, IPython, Scikit-learn etc
 
