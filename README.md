@@ -89,7 +89,20 @@ Grid Search
 * [Scipy lecture notes](http://www.scipy-lectures.org/index.html) — tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques.
 
 ----------------------------------------------------
+
 ## Code editors
+
+* [Spyder](https://pythonhosted.org/spyder/) – the Scientific PYthon Development EnviRonment. Spyder входит в Анаконду (просто введите `spyder` в командной строке);
+* [Canopy](https://store.enthought.com/downloads/#default) — рекомендуют в курсе MIT 6.00.1.x (Introduction to Computer Science and Programming Using Python);
+* [Rodeo](http://blog.yhat.com/posts/introducing-rodeo.html) — a data science IDE for Python.
+* PyCharm от JetBrains.
+* [Jupyter](http://jupyter.org) – open source, interactive data science and scientific computing across over 40 programming languages. The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
+* [nbviewer](http://nbviewer.jupyter.org) – renders notebooks available on other websites.
+
+Дополнительные материалы:
+
+* [PyCharm vs Sublime Text](https://opensourcehacker.com/2015/05/02/pycharm-vs-sublime-text/) – a blog post comparing these two popular development tools and text editors. 
+* [PEP 0008](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code. Важно, нужно.
 
 ----------------------------------------------------
 
