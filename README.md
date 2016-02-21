@@ -5,6 +5,7 @@
 Оглавление:
 
 * [Что почитать](#Что-почитать): книги для ML-специалистов (ENG, RUS), учебники и учебные материалы, статьи, онлайн-пособия и туториалы.
+* [Code editors](#code-editors): IDE, текстовые редакторы, iPython-notebook, и где вообще стоит писать код.
 * [Datasets](#datasets): источники бесплатных датасетов.
 * [Курсы](#Курсы): релевантные и полезные онлайн-курсы (MOOC) на русском и английском.
 * [Reddit](#reddit): небольшой список сабреддитов по теме.
@@ -83,9 +84,12 @@ Grid Search
 ### Python, IPython, Scikit-learn etc
 
 * Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/).
-* Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/): «Может кому понадобится, кто тоже в первый раз видит питон».
-* [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb), IPython-notebook на русском языке.
+* Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/) — «Может кому понадобится, кто тоже в первый раз видит питон».
+* [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb) — IPython-notebook на русском языке.
 * [Scipy lecture notes](http://www.scipy-lectures.org/index.html) — tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques.
+
+----------------------------------------------------
+## Code editors
 
 ----------------------------------------------------
 
@@ -105,25 +109,25 @@ Grid Search
   * :exclamation: [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning): «Сложность курса [Введение в машинное обучение] нормальная, если сначала пройти этот курс».
   * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info): «В качестве самого первого курса по ML, кто с английским, очень советую. Очень доходчиво».
   * [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics/): «Сейчас параллельно вот этот курс смотрю, о  том же, но на пальцах».
-  * [Basic Statistics](https://www.coursera.org/learn/basic-statistics) (лекции хороши для новичков, задания на DataCamp настоятельно _не_ рекомендую).
+  * [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – хорошие лекции для новичков. Задания на DataCamp, ужасно глючные, недоработанные, к курсу отношения имеют не очень много (по состоянию на начало 2016).
   * [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics).
-  * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info) (этот и предыдущий курсы преподаёт А. Райгородский, на их фоне упомянутый выше Basic Statistics — Улица Сезам).
-  * [Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python), на русском языке.
-  * Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye), её начинает вышеупомянутый курс Математика и Python для анализа данных.
+  * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info). Этот и предыдущий курсы преподаёт А. Райгородский, на их фоне упомянутый выше Basic Statistics — Улица Сезам.
+  * [Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python), курс на русском языке по Математике, Python и анализу данных.
+  * Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) — её начинает вышеупомянутый курс «Математика и Python для анализа данных». У меня по этой специализации есть аккуратная [:octocat: репка](https://github.com/demidovakatya/mashinnoye-obucheniye).
 * Udacity:
-  * [Intro to Machine Learning](https://www.udacity.com/courses/ud120): «по Scikit/Pandas вот этот курс просто отличный».
+  * [Intro to Machine Learning](https://www.udacity.com/courses/ud120) — «по Scikit/Pandas вот этот курс просто отличный».
   * [Intro to Statistics](https://www.udacity.com/courses/st101).
-  * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) (отличный курс для новичков).
+  * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – отличный курс для новичков.
   * [Intro to Inferential Statistics](https://www.udacity.com/courses/ud201).
 * Edx:
  * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info).
  * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3).
  * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0)
 * [Learning from Data](https://work.caltech.edu/telecourse.html). «Его особенность - нет привязки к языку какому-либо. Дали задание, например, посчитать лин регрессию - дальше делайте как хотите».
-* «на [stepic.org](stepic.org) есть курс по Статистике. Местами чуть сумбурно(как я понял по прохождении и прочтении 2 книг дополнительно), но для начала лучше не придумать/не найти».
+* «на [stepic.org](stepic.org) есть курс по Статистике. Местами чуть сумбурно (как я понял по прохождении и прочтении 2 книг дополнительно), но для начала лучше не придумать/не найти».
 * [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses).
-* [Probability and Statistics](https://www.khanacademy.org/math/probability).
-* [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (основы Python и немного про NumPy).
+* [Probability and Statistics](https://www.khanacademy.org/math/probability) на KhanAcademy.
+* [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy.
 * [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft.
 
 ----------------------------------------------------
