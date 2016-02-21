@@ -2,6 +2,8 @@
 
 [![header](/head.png)](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)
 
+[Коференция в Slack](machinelearning2016.slack.com), [регистрация](https://mlinvite.herokuapp.com/).
+
 Оглавление:
 
 * [Что почитать](#Что-почитать): книги для ML-специалистов (ENG, RUS), учебники и учебные материалы, статьи, онлайн-пособия и туториалы.
@@ -24,6 +26,7 @@
 * [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs)
 * [People tweeting about ML and AI](http://blog.talla.com/2016/02/people-tweeting-about-machine-learning-and-ai/)
 * [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf)
+* [17 ресурсов по машинному обучению от Типичного Программиста](http://tproger.ru/articles/free-programming-books/#machine-learning)
 
 ### Рекомендуемые книги для ML-специалиста
 
@@ -35,6 +38,7 @@
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay;
 * [Machine Learning. The Art of Science of Algorithms that Make Sense of Data](http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221/) - P. Flach (2012);
 * [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219);
+* [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015);
 * [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006)
 * [R in action](https://www.manning.com/books/r-in-action);
 * [The Elements of Statistical Learning](http://web.stanford.edu/%7Ehastie/local.ftp/Springer/OLD/ESLII_print4.pdf) – Trevor Hastie, R. Tibshirani, J. Friedman;
@@ -95,9 +99,16 @@ Grid Search
 * [Spyder](https://pythonhosted.org/spyder/) – the Scientific PYthon Development EnviRonment. Spyder входит в Анаконду (просто введите `spyder` в командной строке);
 * [Canopy](https://store.enthought.com/downloads/#default) — рекомендуют в курсе MIT 6.00.1.x (Introduction to Computer Science and Programming Using Python);
 * [Rodeo](http://blog.yhat.com/posts/introducing-rodeo.html) — a data science IDE for Python.
-* PyCharm от JetBrains.
+* [PyCharm от JetBrains](http://www.jetbrains.com/pycharm/) - серьезная IDE для больших проектов
 * [Jupyter](http://jupyter.org) – open source, interactive data science and scientific computing across over 40 programming languages. The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 * [nbviewer](http://nbviewer.jupyter.org) – renders notebooks available on other websites.
+* [Sublime Text 3](http://www.sublimetext.com/3) - VIM XXI века, отлично подходит для python, если использовать вместе с плагинами
+	+  [Package Control](https://packagecontrol.io/) - для быстрой и удобной работы с дополнениями
+	+  [Git](https://packagecontrol.io/packages/Git) - для работы с git
+	+  [Jedi](https://packagecontrol.io/packages/Jedi%20-%20Python%20autocompletion) - делает автодополнения для Python более умными и глубокими
+	+  [SublimeREPL](https://packagecontrol.io/packages/SublimeREPL) - запускает `Read-eval-print loop` в соседней вкладке, удобно для пошаговой отладки кода
+	+  [Auto-PEP8](https://packagecontrol.io/packages/AutoPEP8) - приводит код в соответствие с каноном стиля *pep8*
+	+  [Python Checker](https://packagecontrol.io/packages/Python%20Checker) - проверка кода
 
 Дополнительные материалы:
 
