@@ -129,6 +129,7 @@ Grid Search
 ## Курсы
 
 * [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses)
+* [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses)
 * Coursera:
   * :exclamation: [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning): «Сложность курса [Введение в машинное обучение] нормальная, если сначала пройти этот курс».
   * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info): «В качестве самого первого курса по ML, кто с английским, очень советую. Очень доходчиво».
