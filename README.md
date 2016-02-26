@@ -31,24 +31,31 @@
 ### Рекомендуемые книги для ML-специалиста
 
 * [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/) – Gareth James, D. Witten et. al;
+* [A Course in Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=9395) - Hal Daumé III;
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf) - D.Barber (2013);
 * [Data Mining and Analysis. Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf) - M.J.Zaki, W.Meira Jr (2014);
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015);
 * [Doing data science](http://shop.oreilly.com/product/0636920028529.do);
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.e-booksdirectory.com/details.php?ebook=3267) - T. Hastie, R. Tibshirani, J. Friedman;
+* [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmussen, Christopher K. I. Williams
+* [Inductive Logic Programming: Techniques and Applications](http://www.e-booksdirectory.com/details.php?ebook=1105) - Nada Lavrac, Saso Dzeroski;
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay;
+* [Introduction To Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1117) - Nils J Nilsson (1997);
+* [The LION Way Machine Learning plus Intelligent Optimization](http://1.oito.eu/The-LION-Way-Machine-Learning-plus-Intelligent-Optimization.pdf) (pdf);
+* [Machine Learning, Neural and Statistical Classification](http://www.e-booksdirectory.com/details.php?ebook=1118) - D. Michie, D. J. Spiegelhalter
 * [Machine Learning. The Art of Science of Algorithms that Make Sense of Data](http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221/) - P. Flach (2012);
 * [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219);
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015);
 * [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006)
 * [R in action](https://www.manning.com/books/r-in-action);
+* [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto;
 * [The Elements of Statistical Learning](http://web.stanford.edu/%7Ehastie/local.ftp/Springer/OLD/ESLII_print4.pdf) – Trevor Hastie, R. Tibshirani, J. Friedman;
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html);
-* [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu14.pdf) – Чернова Н.И. (НГУ, 2014)
-* [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/sibguti/ms-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009)
+* [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu14.pdf) – Чернова Н.И. (НГУ, 2014);
+* [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/sibguti/ms-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009);
 * [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах;
-* [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/sibguti/tv-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009)
-* [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) – Чернова Н.И. (НГУ, 2007)
-
+* [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/sibguti/tv-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009);
+* [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) – Чернова Н.И. (НГУ, 2007);
 :books: А также [полка «Анализ данных»](https://bookmate.com/bookshelves/Nggk0rBi) на Букмейте.
 
 Посмотреть тред или внести свои предложения можно [здесь](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/issues/1).
