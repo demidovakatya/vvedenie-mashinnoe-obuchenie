@@ -110,12 +110,12 @@ Grid Search
 * [Jupyter](http://jupyter.org) – open source, interactive data science and scientific computing across over 40 programming languages. The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 * [nbviewer](http://nbviewer.jupyter.org) – renders notebooks available on other websites.
 * [Sublime Text 3](http://www.sublimetext.com/3) - VIM XXI века, отлично подходит для python, если использовать вместе с плагинами
-	+  [Package Control](https://packagecontrol.io/) - для быстрой и удобной работы с дополнениями
-	+  [Git](https://packagecontrol.io/packages/Git) - для работы с git
-	+  [Jedi](https://packagecontrol.io/packages/Jedi%20-%20Python%20autocompletion) - делает автодополнения для Python более умными и глубокими
-	+  [SublimeREPL](https://packagecontrol.io/packages/SublimeREPL) - запускает `Read-eval-print loop` в соседней вкладке, удобно для пошаговой отладки кода
-	+  [Auto-PEP8](https://packagecontrol.io/packages/AutoPEP8) - приводит код в соответствие с каноном стиля *pep8*
-	+  [Python Checker](https://packagecontrol.io/packages/Python%20Checker) - проверка кода
+  +  [Package Control](https://packagecontrol.io/) - для быстрой и удобной работы с дополнениями
+  +  [Git](https://packagecontrol.io/packages/Git) - для работы с git
+  +  [Jedi](https://packagecontrol.io/packages/Jedi%20-%20Python%20autocompletion) - делает автодополнения для Python более умными и глубокими
+  +  [SublimeREPL](https://packagecontrol.io/packages/SublimeREPL) - запускает `Read-eval-print loop` в соседней вкладке, удобно для пошаговой отладки кода
+  +  [Auto-PEP8](https://packagecontrol.io/packages/AutoPEP8) - приводит код в соответствие с каноном стиля *pep8*
+  +  [Python Checker](https://packagecontrol.io/packages/Python%20Checker) - проверка кода
 
 Дополнительные материалы:
 
@@ -175,6 +175,5 @@ Grid Search
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning)
 * [/r/probabilitytheory](https://www.reddit.com/r/probabilitytheory)
 * [/r/statistics](https://www.reddit.com/r/statistics)
-
-
-
+* [/r/pystats](https://www.reddit.com/r/pystats)
+* [/r/learnpython](https://www.reddit.com/r/learnpython)
