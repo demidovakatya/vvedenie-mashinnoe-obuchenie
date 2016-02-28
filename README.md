@@ -4,13 +4,18 @@
 
 :balloon: [Конференция в Slack](machinelearning2016.slack.com), [регистрация](https://mlinvite.herokuapp.com/).
 
-Оглавление:
+#### :notebook: Оглавление
 
 * [Что почитать](#Что-почитать): книги для ML-специалистов (ENG, RUS), учебники и учебные материалы, статьи, онлайн-пособия и туториалы.
+  * [Рекомендуемые книги для ML-специалиста](#Рекомендуемые-книги-для-ml-специалиста),
+  * [Отдельные темы](#Отдельные-темы),
+  * [Python, IPython, Scikit-learn etc](#python-ipython-scikit-learn-etc),
 * [Code editors](#code-editors): IDE, текстовые редакторы, iPython-notebook, и где вообще стоит писать код.
 * [Datasets](#datasets): источники бесплатных датасетов.
 * [Курсы](#Курсы): релевантные и полезные онлайн-курсы (MOOC) на русском и английском.
 * [Reddit](#reddit): небольшой список сабреддитов по теме.
+
+----------------------------------------------------
 
 ## Что почитать?
 
@@ -61,7 +66,7 @@
 
 Посмотреть тред или внести свои предложения можно [здесь](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/issues/1).
 
-<img src="http://i.imgur.com/v0O9qy2.jpg" style="text-align: center;">
+<img src="http://i.imgur.com/v0O9qy2.jpg" align="center">
 
 ### Отдельные темы
 
@@ -99,6 +104,7 @@ Grid Search
 * Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/) — «Может кому понадобится, кто тоже в первый раз видит питон».
 * [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb) — IPython-notebook на русском языке.
 * [Scipy lecture notes](http://www.scipy-lectures.org/index.html) — tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques.
+* [100 Numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html). The goal is both to offer a quick reference for new and old users and to provide also a set of exercices for those who teach.
 
 ----------------------------------------------------
 
@@ -143,8 +149,11 @@ Grid Search
   * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info): «В качестве самого первого курса по ML, кто с английским, очень советую. Очень доходчиво»;
   * [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics/): «Сейчас параллельно вот этот курс смотрю, о  том же, но на пальцах»;
   * [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – хорошие лекции для новичков. Задания на DataCamp, ужасно глючные, недоработанные, к курсу отношения имеют не очень много (по состоянию на начало 2016);
+  * [Calculus](https://www.coursera.org/learn/single-variable-calculus): Single Variable Part 1 - Functions from University of Pennsylvania;
+  * [Calculus One](https://www.coursera.org/learn/calculus1) from The Ohio State University;
   * [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics);
   * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info). Этот и предыдущий курсы преподаёт А. Райгородский, на их фоне упомянутый выше Basic Statistics — Улица Сезам;
+  * [Линейная алгебра](https://www.coursera.org/course/linalg) от ВШЭ. Курс линейной алгебры для нематематических факультетов, подходит «для быстрого старта»;
   * [Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python), курс на русском языке по Математике, Python и анализу данных;
   * Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) — её начинает вышеупомянутый курс «Математика и Python для анализа данных». У меня по этой специализации есть аккуратная [:octocat: репка](https://github.com/demidovakatya/mashinnoye-obucheniye).
 * Udacity:
@@ -157,7 +166,7 @@ Grid Search
  * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3);
  * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0);
 * [Learning from Data](https://work.caltech.edu/telecourse.html). «Его особенность - нет привязки к языку какому-либо. Дали задание, например, посчитать лин регрессию - дальше делайте как хотите»;
-* «на [stepic.org](stepic.org) есть курс по Статистике. Местами чуть сумбурно (как я понял по прохождении и прочтении 2 книг дополнительно), но для начала лучше не придумать/не найти»;
+* «на [stepic.org](http://stepic.org) есть курс по Статистике. Местами чуть сумбурно (как я понял по прохождении и прочтении 2 книг дополнительно), но для начала лучше не придумать/не найти»;
 * [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses);
 * [Probability and Statistics](https://www.khanacademy.org/math/probability) на KhanAcademy;
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
