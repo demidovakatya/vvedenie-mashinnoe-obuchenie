@@ -66,8 +66,6 @@
 
 Посмотреть тред или внести свои предложения можно [здесь](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/issues/1).
 
-<img src="http://i.imgur.com/v0O9qy2.jpg" align="center">
-
 ### Отдельные темы
 
 Decision Trees
