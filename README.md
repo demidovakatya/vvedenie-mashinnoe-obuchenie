@@ -51,6 +51,7 @@
 * [Machine Learning. The Art of Science of Algorithms that Make Sense of Data](http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221/) - P. Flach (2012);
 * [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219);
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015);
+* [Openintro Statistics 3](https://www.openintro.org/stat/textbook.php) –
 * [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006);
 * [R in action](https://www.manning.com/books/r-in-action);
 * [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto;
