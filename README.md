@@ -37,7 +37,7 @@
 
 * [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/) – Gareth James, D. Witten et. al;
 * [A Course in Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=9395) - Hal Daumé III;
-* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf) - D.Barber (2013);
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015);
 * [Data Mining and Analysis. Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf) - M.J.Zaki, W.Meira Jr (2014);
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015);
 * [Doing data science](http://shop.oreilly.com/product/0636920028529.do);
