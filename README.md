@@ -170,6 +170,7 @@ Grid Search
 * [Probability and Statistics](https://www.khanacademy.org/math/probability) на KhanAcademy;
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
 * [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft.
+* [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n)
 
 ----------------------------------------------------
 
