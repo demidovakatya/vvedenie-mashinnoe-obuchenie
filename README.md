@@ -39,6 +39,10 @@
 
 ### Рекомендуемые книги для ML-специалиста
 
+:book: Список литературы для подготовки к вступительным экзаменам в ШАД [здесь](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842).
+
+:open_book: [Рекомендации](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python) от преподавателей курса Математика и Python для анализа данных.
+
 * [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/) – Gareth James, D. Witten et. al;
 * [A Course in Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=9395) - Hal Daumé III;
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015);
@@ -117,7 +121,7 @@ Grid Search
 * [Spyder](https://pythonhosted.org/spyder/) – the Scientific PYthon Development EnviRonment. Spyder входит в Анаконду (просто введите `spyder` в командной строке);
 * [Canopy](https://store.enthought.com/downloads/#default) — рекомендуют в курсе MIT 6.00.1.x (Introduction to Computer Science and Programming Using Python);
 * [Rodeo](http://blog.yhat.com/posts/introducing-rodeo.html) — a data science IDE for Python;
-* [PyCharm от JetBrains](http://www.jetbrains.com/pycharm/) - серьезная IDE для больших проектовl
+* [PyCharm от JetBrains](http://www.jetbrains.com/pycharm/) - серьезная IDE для больших проектов;
 * [Jupyter](http://jupyter.org) – open source, interactive data science and scientific computing across over 40 programming languages. The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text;
 * [nbviewer](http://nbviewer.jupyter.org) – renders notebooks available on other websites;
 * [Sublime Text 3](http://www.sublimetext.com/3) - VIM XXI века, отлично подходит для python, если использовать вместе с плагинами:
