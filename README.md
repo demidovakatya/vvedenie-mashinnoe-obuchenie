@@ -113,6 +113,7 @@ Grid Search
 * [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb) — IPython-notebook на русском языке.
 * [Scipy lecture notes](http://www.scipy-lectures.org/index.html) — tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques.
 * [100 Numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html). The goal is both to offer a quick reference for new and old users and to provide also a set of exercices for those who teach.
+* [Курс по основам Python, алгоритмам и структурам данных](https://github.com/Yorko/python_intro). Курс представлен в виде тетрадок IPython.
 
 ----------------------------------------------------
 
