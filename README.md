@@ -19,19 +19,23 @@
 
 ## Что почитать?
 
+:books: Ещё больше ссылок по темам собрано [здесь](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/blob/master/Themes.md) (пока что линейная алгебра и статистика).
+
 * [Математические методы обучения по прецедентам (теория обучения машин)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf) – К. В. Воронцов;
 * [Логические алгоритмы классификации](http://www.machinelearning.ru/wiki/images/9/97/Voron-ML-Logic-slides.pdf) – К. В. Воронцов;
 * [Машинное обучение: вводная лекция](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf) – К. В. Воронцов;
 * [Конспекты лекций](http://koddo.github.io/coursera-yandex-intro-to-machine-learning/);
 * [Семинары по машинному обучению](https://github.com/esokolov/ml-course-msu). Конспекты, код и прочие материалы к семинарам по машинному обучению, проводимым на ВМК МГУ;
 * Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/);
-* [immersive linear algebra](http://immersivemath.com/ila/index.html) – online linear algebra book with fully interactive figures;
 * Цикл статей [Titanic: Getting Started With R](http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r), в нём используется уже знакомый нам датасет Titanic. It’s a wonderful entry-point to machine learning with a manageably small but very interesting dataset with easily understood variables;
 * [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning);
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning);
 * [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs);
 * [People tweeting about ML and AI](http://blog.talla.com/2016/02/people-tweeting-about-machine-learning-and-ai/);
 * [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf);
-* [17 ресурсов по машинному обучению от Типичного Программиста](http://tproger.ru/articles/free-programming-books/#machine-learning).
+* [17 ресурсов по машинному обучению от Типичного Программиста](http://tproger.ru/articles/free-programming-books/#machine-learning);
+* [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing);
+* [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек ("toy data problem") в Data Science.
 
 ### Рекомендуемые книги для ML-специалиста
 
@@ -51,8 +55,9 @@
 * [Machine Learning. The Art of Science of Algorithms that Make Sense of Data](http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221/) - P. Flach (2012);
 * [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219);
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015);
-* [Openintro Statistics 3](https://www.openintro.org/stat/textbook.php) –
+* [Openintro Statistics 3](https://www.openintro.org/stat/textbook.php) (free);
 * [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006);
+* [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free);
 * [R in action](https://www.manning.com/books/r-in-action);
 * [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto;
 * [The Elements of Statistical Learning](http://web.stanford.edu/%7Ehastie/local.ftp/Springer/OLD/ESLII_print4.pdf) – Trevor Hastie, R. Tibshirani, J. Friedman;
@@ -169,8 +174,8 @@ Grid Search
 * [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses);
 * [Probability and Statistics](https://www.khanacademy.org/math/probability) на KhanAcademy;
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
-* [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft.
-* [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n)
+* [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft;
+* [CS231n: Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n).
 
 ----------------------------------------------------
 
