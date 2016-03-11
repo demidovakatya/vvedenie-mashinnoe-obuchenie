@@ -25,3 +25,11 @@
 * [Intro to Statistics](https://www.udacity.com/courses/st101);
 * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков;
 * [Intro to Inferential Statistics](https://www.udacity.com/courses/ud201).
+
+## LateX
+
+* Вот не очень краткое введение в LaTeX: http://zelmanov.ptep-online.com/ctan/lshort_russian.pdf
+* IDE: http://www.texstudio.org/, https://www.lyx.org/
+* Курс на Coursera (Latex от Высшей Школы Экономики): https://www.coursera.org/course/latex.
+* Группа курса vk: https://vk.com/hse.latex (много полезного и разного)
+
