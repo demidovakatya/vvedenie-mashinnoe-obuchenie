@@ -43,13 +43,18 @@
 
 :open_book: [Рекомендации](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python) от преподавателей курса Математика и Python для анализа данных.
 
+* [Machine Learning](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) - Tom Mitchell;
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.e-booksdirectory.com/details.php?ebook=3267) - T. Hastie, R. Tibshirani, J. Friedman;
+* [Data Mining: Concepts and Techniques](http://www.sciencedirect.com/science/book/9780123814791) - Jiawei Han et. al.;
 * [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/) – Gareth James, D. Witten et. al;
+* [Frequent Pattern Mining](https://mail.google.com/mail/u/1/#inbox/1536859aae027538) - Charu C Aggarwal, Jiawei Han (eds.); 
+* [Deep Learning](http://www.deeplearningbook.org/version-2016-03-08/index.html) - Ian Goodfellow, Yoshua Bengio and Aaron Courville (в процессе);
+* [Core Concepts in Data Analysis: Summarization, Correlation and Visualization](http://www.springer.com/us/book/9780857292865) - Boris Mirkin;
 * [A Course in Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=9395) - Hal Daumé III;
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015);
 * [Data Mining and Analysis. Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf) - M.J.Zaki, W.Meira Jr (2014);
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015);
 * [Doing data science](http://shop.oreilly.com/product/0636920028529.do);
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.e-booksdirectory.com/details.php?ebook=3267) - T. Hastie, R. Tibshirani, J. Friedman;
 * [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmussen, Christopher K. I. Williams;
 * [Inductive Logic Programming: Techniques and Applications](http://www.e-booksdirectory.com/details.php?ebook=1105) - Nada Lavrac, Saso Dzeroski;
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay;
@@ -61,16 +66,17 @@
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015);
 * [Openintro Statistics 3](https://www.openintro.org/stat/textbook.php) (free);
 * [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006);
+* [Machine Learning in Action](https://www.manning.com/books/machine-learning-in-action) - Peter Harrington;
 * [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free);
 * [R in action](https://www.manning.com/books/r-in-action);
 * [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto;
-* [The Elements of Statistical Learning](http://web.stanford.edu/%7Ehastie/local.ftp/Springer/OLD/ESLII_print4.pdf) – Trevor Hastie, R. Tibshirani, J. Friedman;
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html);
 * [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu14.pdf) – Чернова Н.И. (НГУ, 2014);
 * [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/sibguti/ms-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009);
 * [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах;
 * [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/sibguti/tv-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009);
-* [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) – Чернова Н.И. (НГУ, 2007).
+* [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) – Чернова Н.И. (НГУ, 2007);
+* [Анализ больших наборов данных](http://dmkpress.com/catalog/computer/data/978-5-97060-190-7/) - перевод [Mining Massive Datasets](http://www.mmds.org/) - Jure Leskovec, Anand Rajaraman, Jeff Ullman.
 
 :books: А также [полка «Анализ данных»](https://bookmate.com/bookshelves/Nggk0rBi) на Букмейте.
 
