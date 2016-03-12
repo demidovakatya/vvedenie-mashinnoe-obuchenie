@@ -102,9 +102,17 @@ Grid Search
 
 [Подробнее о градиентном бустинге и особенностях его применения к деревьям](http://www.machinelearning.ru/wiki/images/7/7e/Sem03_ensembles_2014.pdf).
 
+[Ещё о выводе градиентного бустинга для регрессии и классификации](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
+
+Кластеризация
+ * [Soft K-means](http://cs.gmu.edu/~kosecka/cs803/soft-kmeans.pdf) Строго и одновременно понятно и коротко
+
+SVM
+ * [Вывод SVM](http://cs229.stanford.edu/notes/cs229-notes3.pdf) - Заметки оригинального стэнфордского курса Andrew Ng
+ * [Метод опорных векторов](http://statistica.ru/local-portals/data-mining/metod-opornykh-vektorov/).
 [Лекции по искусственным нейронным сетям](http://www.ccas.ru/voron/download/NeuralNets.pdf) — К. В. Воронцов.
 
-[Метод опорных векторов](http://statistica.ru/local-portals/data-mining/metod-opornykh-vektorov/).
+
 
 ### Python, IPython, Scikit-learn etc
 
