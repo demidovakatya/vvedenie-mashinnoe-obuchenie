@@ -1,6 +1,6 @@
 # Введение в машинное обучение
 
-:small-orange-diamond: Для обсуждения ML и общения на разные темы была создана [конференция в Slack](machinelearning2016.slack.com). Чтобы присоединиться, заполните форму по [ссылке](https://mlinvite.herokuapp.com/). Нас уже **более 800**!
+:small_orange_diamond: Для обсуждения ML и общения на разные темы была создана [конференция в Slack](machinelearning2016.slack.com). Чтобы присоединиться, заполните форму по [ссылке](https://mlinvite.herokuapp.com/). Нас уже **более 800**!
 
 #### :notebook: Оглавление
 
@@ -137,8 +137,8 @@
 * [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses);
 * [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses);
 * Coursera:
-  * :small-blue-diamond: [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению;
-  * :small-blue-diamond: Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. У меня по этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye);
+  * :small_blue_diamond: [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению;
+  * :small_blue_diamond: Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. У меня по этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye);
   * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info) — очень доходчивый курс, подходит в качестве самого первого курса по ML;
   * [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics/) — this course is about machine learning methods, concepts, and ways to solve real problems;
   * [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – хорошие лекции и квизы, идеально для новичков. Минус — недоработанные практические задания;
