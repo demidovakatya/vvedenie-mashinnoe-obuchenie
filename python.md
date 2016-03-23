@@ -3,7 +3,8 @@
 * Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/);
 * Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/) — в помощь тем, кто в первый раз столкнулся с Python и/или Pandas;
 * [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb) — подробный IPython-notebook на русском языке;
-* [Туториал по Matplotlib](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
+* [Туториал по Matplotlib](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html);
+* [Анализ данных при помощи Python](http://playittodeath.ru/анализ-данных-при-помощи-python-графики-в-pandas/) – большая статья про графики в pandas и matplotlib;
 * [Scipy lecture notes](http://www.scipy-lectures.org/index.html) — tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques;
 * Очень [большой список](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) интересных питоновских ноутбуков (от туториалов на три минуты, до целых книг (!) в таком формате);
 * [100 Numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html). The goal is both to offer a quick reference for new and old users and to provide also a set of exercices for those who teach;
