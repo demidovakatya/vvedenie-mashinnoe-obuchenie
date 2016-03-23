@@ -12,4 +12,7 @@
 * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info);
 * [Intro to Statistics](https://www.udacity.com/courses/st101) — covers visualization, probability, regression and other topics that will help you learn the basic methods of understanding data with statistics;
 * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков. This course will teach you the basic terms and concepts in statistics as well as guide you through introductory probability;
-* [Intro to Inferential Statistics](https://www.udacity.com/courses/ud201) – курс знакомит с базовыми понятиями индуктивной статистики (t-test, ANOVA, корреляция, регрессия и др.).
+* [Intro to Inferential Statistics](https://www.udacity.com/courses/ud201) – курс знакомит с базовыми понятиями индуктивной статистики (t-test, ANOVA, корреляция, регрессия и др.);
+* [Introduction to Probability](http://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=pd_cp_14_1?ie=UTF8&refRID=0CF1J1X0J2JFR5JX7BYP) – Joseph K. Blitzstein (2014);
+* [Statistics 110: Probability](http://projects.iq.harvard.edu/stat110) – Гарвардский курс от Joseph K. Blitzstein;
+* [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers) — презентация о том, как можно использовать coding skills to "hack statistics".

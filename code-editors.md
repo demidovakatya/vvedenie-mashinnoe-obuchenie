@@ -15,7 +15,6 @@
   +  [Python Checker](https://packagecontrol.io/packages/Python%20Checker) - проверка кода.
 
 
-
 * [PyCharm vs Sublime Text](https://opensourcehacker.com/2015/05/02/pycharm-vs-sublime-text/) – a blog post comparing these two popular development tools and text editors. 
 * [PEP 0008](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code. Важно, нужно.
 

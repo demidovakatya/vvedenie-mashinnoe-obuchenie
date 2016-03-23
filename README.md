@@ -51,6 +51,7 @@
 * [Inductive Logic Programming: Techniques and Applications](http://www.e-booksdirectory.com/details.php?ebook=1105) - Nada Lavrac, Saso Dzeroski;
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay;
 * [Introduction To Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1117) - Nils J Nilsson (1997);
+* [Introduction to Probability](http://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=pd_cp_14_1?ie=UTF8&refRID=0CF1J1X0J2JFR5JX7BYP) – Joseph K. Blitzstein (2014);
 * [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/) – Gareth James, D. Witten et. al;
 * [The LION Way Machine Learning plus Intelligent Optimization](http://1.oito.eu/The-LION-Way-Machine-Learning-plus-Intelligent-Optimization.pdf) (pdf);
 * [Machine Learning](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) - Tom Mitchell;
@@ -85,8 +86,6 @@
 * [Python, IPython, Scikit-learn etc](/python.md)
 * [Code Editors](/code-editors.md)
 * [Latex](/latex.md)
-
-Дополнительные материалы к разделам курса:
 
 ### Логические методы: решающие деревья и решающие леса
 
@@ -151,6 +150,8 @@
   * [Social Network Analysis](https://www.coursera.org/course/sna) от University of Michigan;
   * [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline) от Stanford University.
 * Udacity:
+  * [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009);
+  * [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002);
   * [Intro to Machine Learning](https://www.udacity.com/courses/ud120) — ths will teach you the end-to-end process of investigating data through a machine learning lens;
   * [Intro to Statistics](https://www.udacity.com/courses/st101) — covers visualization, probability, regression and other topics that will help you learn the basic methods of understanding data with statistics;
   * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков. This course will teach you the basic terms and concepts in statistics as well as guide you through introductory probability;
