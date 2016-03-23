@@ -73,9 +73,9 @@
 * [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/sibguti/tv-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009);
 * [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) – Чернова Н.И. (НГУ, 2007).
 
-:books: А также [полка «Анализ данных»](https://bookmate.com/bookshelves/Nggk0rBi) на Букмейте.
+:books: Для любителей научпопа: [полка «Анализ данных»](https://bookmate.com/bookshelves/Nggk0rBi) на Букмейте.
 
-Посмотреть тред или внести свои предложения можно [здесь](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/issues/1).
+Внести свои предложения можно [здесь](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie/issues/1).
 
 ----------------------------------------------------
 
@@ -165,4 +165,4 @@
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
 * Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке;
 * [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft;
-* [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github]((https://github.com/cs231n)). During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision.
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)). During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision.
