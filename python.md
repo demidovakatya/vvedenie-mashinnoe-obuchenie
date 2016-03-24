@@ -1,5 +1,6 @@
 # Python, IPython, Scikit-learn etc.
 
+* [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
 * Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/);
 * Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/) — в помощь тем, кто в первый раз столкнулся с Python и/или Pandas;
 * [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb) — подробный IPython-notebook на русском языке;

@@ -24,6 +24,7 @@
 * [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf);
 * [17 ресурсов по машинному обучению от Типичного Программиста](http://tproger.ru/articles/free-programming-books/#machine-learning);
 * [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек ("toy data problem") в Data Science;
+* [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
 * [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html) — огромный список вопросов для подготовки к интервью на позицию data scientist'а;
 * [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing).
 
