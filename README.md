@@ -1,6 +1,6 @@
 # Введение в машинное обучение
 
-:small_orange_diamond: Для обсуждения ML и общения на разные темы была создана [конференция в Slack](machinelearning2016.slack.com). Чтобы присоединиться, заполните форму по [ссылке](https://mlinvite.herokuapp.com/). Нас уже **более 800**!
+:small_orange_diamond: Для обсуждения ML и общения на разные темы была создана [конференция в Slack](machinelearning2016.slack.com). Чтобы присоединиться, заполните форму по [ссылке](https://mlinvite.herokuapp.com/). Нас уже **более 900**!
 
 #### :notebook: Оглавление
 
@@ -47,21 +47,16 @@
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015);
 * [Deep Learning](http://www.deeplearningbook.org/version-2016-03-08/index.html) - Ian Goodfellow, Yoshua Bengio and Aaron Courville (в процессе);
 * [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do);
-<!-- * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.e-booksdirectory.com/details.php?ebook=3267) - T. Hastie, R. Tibshirani, J. Friedman; -->
 * [Frequent Pattern Mining](https://mail.google.com/mail/u/1/#inbox/1536859aae027538) - Charu C Aggarwal, Jiawei Han (eds.); 
 * [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmussen, Christopher K. I. Williams;
 * [Inductive Logic Programming: Techniques and Applications](http://www.e-booksdirectory.com/details.php?ebook=1105) - Nada Lavrac, Saso Dzeroski;
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay;
 * [Introduction To Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1117) - Nils J Nilsson (1997);
-<!-- * [Introduction to Probability](http://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=pd_cp_14_1?ie=UTF8&refRID=0CF1J1X0J2JFR5JX7BYP) – Joseph K. Blitzstein (2014); -->
-<!-- * [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/) – Gareth James, D. Witten et. al; -->
 * [The LION Way Machine Learning plus Intelligent Optimization](http://1.oito.eu/The-LION-Way-Machine-Learning-plus-Intelligent-Optimization.pdf) (pdf);
 * [Machine Learning](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) - Tom Mitchell;
 * [Machine Learning, Neural and Statistical Classification](http://www.e-booksdirectory.com/details.php?ebook=1118) - D. Michie, D. J. Spiegelhalter;
 * [Machine Learning. The Art of Science of Algorithms that Make Sense of Data](http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221/) - P. Flach (2012);
-<!-- * [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219); -->
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015);
-<!-- * [Openintro Statistics 3](https://www.openintro.org/stat/textbook.php) (free); -->
 * [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006);
 * [Machine Learning in Action](https://www.manning.com/books/machine-learning-in-action) - Peter Harrington;
 * [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free);
@@ -69,11 +64,7 @@
 * [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto;
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html);
 * [Анализ больших наборов данных](http://dmkpress.com/catalog/computer/data/978-5-97060-190-7/) - перевод [Mining Massive Datasets](http://www.mmds.org/) - Jure Leskovec, Anand Rajaraman, Jeff Ullman;
-* [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu14.pdf) – Чернова Н.И. (НГУ, 2014);
-* [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/sibguti/ms-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009);
-* [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах;
-* [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/sibguti/tv-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009);
-* [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) – Чернова Н.И. (НГУ, 2007).
+* [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах.
 
 :books: Для любителей научпопа: [полка «Анализ данных»](https://bookmate.com/bookshelves/Nggk0rBi) на Букмейте.
 
@@ -150,7 +141,6 @@
   * :small_blue_diamond: Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. У меня по этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye);
   * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info) — очень доходчивый курс, подходит в качестве самого первого курса по ML;
   * [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics/) — this course is about machine learning methods, concepts, and ways to solve real problems;
-  <!-- * [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – хорошие лекции и квизы, идеально для новичков. Минус — недоработанные практические задания; -->
   * [Calculus](https://www.coursera.org/learn/single-variable-calculus): Single Variable Part 1 - Functions from University of Pennsylvania;
   * [Calculus One](https://www.coursera.org/learn/calculus1) from The Ohio State University;
   * [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics) от МФТИ, ведёт Райгородский А.М.;
@@ -165,9 +155,7 @@
   * [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009);
   * [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002);
   * [Intro to Machine Learning](https://www.udacity.com/courses/ud120) — ths will teach you the end-to-end process of investigating data through a machine learning lens;
-  <!-- * [Intro to Statistics](https://www.udacity.com/courses/st101) — covers visualization, probability, regression and other topics that will help you learn the basic methods of understanding data with statistics; -->
   * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков. This course will teach you the basic terms and concepts in statistics as well as guide you through introductory probability;
-  <!-- * [Intro to Inferential Statistics](https://www.udacity.com/courses/ud201) – курс знакомит с базовыми понятиями индуктивной статистики (t-test, ANOVA, корреляция, регрессия и др.). -->
 * Edx:
  * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3);
   * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info);
