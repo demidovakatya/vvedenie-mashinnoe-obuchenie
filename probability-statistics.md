@@ -11,7 +11,7 @@
 * [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – хорошие лекции и квизы, идеально для новичков. Минус — недоработанные практические задания (_Labs_) на DataCamp, которые не помогают закрепить выученный материал, а, скорее, отвлекают от изучения статистики;
 * [Probability and Statistics](https://www.khanacademy.org/math/probability) на KhanAcademy;
 * Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, на русском языке;  
-* [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_3+2T2016/info);
+* [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1);
 * [Intro to Statistics](https://www.udacity.com/courses/st101) — covers visualization, probability, regression and other topics that will help you learn the basic methods of understanding data with statistics;
 * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков. This course will teach you the basic terms and concepts in statistics as well as guide you through introductory probability;
 * [Intro to Inferential Statistics](https://www.udacity.com/courses/ud201) – курс знакомит с базовыми понятиями индуктивной статистики (t-test, ANOVA, корреляция, регрессия и др.);
