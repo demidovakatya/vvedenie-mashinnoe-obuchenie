@@ -150,7 +150,7 @@
 * Edx:
   * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3);
   * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1);
-  * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0);
+  * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2);
 * [Learning from Data](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения);
 * [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses);
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
