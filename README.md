@@ -59,7 +59,8 @@
 * [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto;
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html);
 * [Анализ больших наборов данных](http://dmkpress.com/catalog/computer/data/978-5-97060-190-7/) - перевод [Mining Massive Datasets](http://www.mmds.org/) - Jure Leskovec, Anand Rajaraman, Jeff Ullman;
-* [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах.
+* [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах;
+* [Построение систем машинного обучения](https://vk.com/doc190970339_437111950) — Л. П. Коэльо, В. Ричарт (2016).
 
 ----------------------------------------------------
 
