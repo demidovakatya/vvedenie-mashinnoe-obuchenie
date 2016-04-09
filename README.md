@@ -149,6 +149,7 @@
   * [Intro to Machine Learning](https://www.udacity.com/courses/ud120) — this will teach you the end-to-end process of investigating data through a machine learning lens;
   * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков;
 * Edx:
+  * [Data Science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-spark#courses);
   * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3);
   * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1);
   * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2);
