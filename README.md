@@ -34,6 +34,7 @@
 
 <p style="text-align: center;"><a href="https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842">Литература для поступления в ШАД</a> :small_orange_diamond: <a href="https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python">Рекомендации от преподавателей курса «Математика и Python»</a> :small_orange_diamond: <a href="https://bookmate.com/bookshelves/Nggk0rBi">Подборка научпоп-книг</a></p>
 
+* [Applied Predictive Modeling](http://www.springer.com/us/book/9781461468486) – M. Kuhn, K. Johnson (2013);
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015);
 * [Core Concepts in Data Analysis: Summarization, Correlation and Visualization](http://www.springer.com/us/book/9780857292865) - Boris Mirkin;
 * [A Course in Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=9395) - Hal Daumé III;
@@ -114,7 +115,7 @@
 
 #### Метод опорных векторов (SVM)
 
- * [Вывод SVM](http://cs229.stanford.edu/notes/cs229-notes3.pdf) - Заметки оригинального стэнфордского курса Andrew Ng
+ * [Вывод SVM](http://cs229.stanford.edu/notes/cs229-notes3.pdf) - Заметки оригинального стэнфордского курса Andrew Ng;
  * [Метод опорных векторов](http://statistica.ru/local-portals/data-mining/metod-opornykh-vektorov/).
 
 #### Нейронные сети
