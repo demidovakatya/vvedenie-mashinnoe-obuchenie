@@ -41,7 +41,6 @@
 * [Data Mining: Concepts and Techniques](http://www.sciencedirect.com/science/book/9780123814791) - Jiawei Han et. al.;
 * [Data Mining and Analysis. Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf) - M.J.Zaki, W.Meira Jr (2014);
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015);
-* [Deep Learning](http://www.deeplearningbook.org/version-2016-03-08/index.html) - Ian Goodfellow, Yoshua Bengio and Aaron Courville (в процессе);
 * [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do);
 * [Frequent Pattern Mining](https://mail.google.com/mail/u/1/#inbox/1536859aae027538) - Charu C Aggarwal, Jiawei Han (eds.); 
 * [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmussen, Christopher K. I. Williams;
@@ -72,7 +71,7 @@
 * [Статистика и теория вероятностей](/probability-statistics.md)
 * [Линейная алгебра](/linalg.md)
 * Алгоритмы (в работе)
-* Нейронные сети, глубинное обучение, NLP (в работе)
+* [Нейронные сети, глубинное обучение, NLP, AI](/neural-nets.md)
 * [Python, IPython, Scikit-learn etc](/python.md)
 * [Code editors](/code-editors.md)
 * [LaTeX](/latex.md)
@@ -121,7 +120,8 @@
 #### Нейронные сети
 
 * [Лекции по искусственным нейронным сетям](http://www.ccas.ru/voron/download/NeuralNets.pdf) — К. В. Воронцов;
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) – бесплатная онлайн-книга.
+* [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016);
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) – ещё одна бесплатная онлайн-книга.
 
 ----------------------------------------------------
 
