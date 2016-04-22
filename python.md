@@ -3,6 +3,7 @@
 * [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
 * Заметка по [IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/);
 * [WinPython](https://winpython.github.io) – дистрибутив питона и научных библиотек (+Jupyter, +Spyder) для Windows 7/8/10 ([:octocat: репозиторий на гитхабе](https://github.com/winpython/winpython));
+* [awesome-python-books](https://github.com/Junnplus/awesome-python-books) - Directory of Python books;
 * Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/) — в помощь тем, кто в первый раз столкнулся с Python и/или Pandas;
 * [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb) — подробный IPython-notebook на русском языке;
 * [Туториал по Matplotlib](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html);
@@ -14,5 +15,5 @@
 * [100 Numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html). The goal is both to offer a quick reference for new and old users and to provide also a set of exercices for those who teach;
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
 * [Курс по основам Python, алгоритмам и структурам данных](https://github.com/Yorko/python_intro). Курс представлен в виде тетрадок IPython;
-* [@py_digest](https://telegram.me/py_digest) – telegram channel, уведомляющий о последних новостях из мира Python;
+* [@py_digest](https://telegram.me/py_digest) – канал в telegram, уведомляющий о последних новостях из мира Python;
 * [Pythonpedia](https://pythonpedia.com/) – энциклопедия ресурсов по программированию на Python.
