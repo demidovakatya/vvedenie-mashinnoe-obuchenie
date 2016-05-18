@@ -17,6 +17,7 @@
 * [100+ Free Data Science Books](http://www.learndatasci.com/free-books/) – более 100 бесплатных книг по Data Science;
 * [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning);
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning);
+* [Доска](https://trello.com/b/rbpEfMld/data-science) по data science в Trello — проверенные материалы, организованные по темам (expertise tracks, языки программирования, различные инструменты);
 * [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs);
 * [People tweeting about ML and AI](http://blog.talla.com/2016/02/people-tweeting-about-machine-learning-and-ai/) — на кого подписаться в Твиттере;
 * [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf);
@@ -138,6 +139,7 @@
   * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info), а также [на OpenEdu](https://openedu.ru/course/mipt/PROBTH/) — курс от МФТИ, ведёт Райгородский А.М.;
   * [Линейная алгебра](https://www.coursera.org/course/linalg) от ВШЭ. Курс линейной алгебры для нематематических факультетов, подходит «для быстрого старта»;
   * [Эконометрика](https://www.coursera.org/learn/ekonometrika/) (Econometrics) — 10-недельный курс от ВШЭ;
+  * [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics) – курс о практическом применении статистики и анализа данных. Для людей, разочаровавшихся в DS и не понимающих, на кой это всё;
   * [Social Network Analysis](https://www.coursera.org/course/sna) от University of Michigan;
   * [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline) от Stanford University;
   * [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) – восьминедельный курс по рекомендательным системам от университета Миннесоты;

@@ -5,6 +5,8 @@
 * [WinPython](https://winpython.github.io) – дистрибутив питона и научных библиотек (+Jupyter, +Spyder) для Windows 7/8/10 ([:octocat: репозиторий на гитхабе](https://github.com/winpython/winpython));
 * [awesome-python-books](https://github.com/Junnplus/awesome-python-books) - Directory of Python books;
 * Статья [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/) — в помощь тем, кто в первый раз столкнулся с Python и/или Pandas;
+* [Intermediate Python](https://github.com/lancelote/interpy-ru)  — (переведённое на русский!) краткое онлайн-руководство по нюансам языка, мимо которых часто проходят новички (автор — Yasoob Khalid);
+* [Effective Python](http://www.effectivepython.com/) — книга от разработчика из Google;
 * [Введение в Sklearn](https://github.com/Dyakonov/notebooks/blob/master/dj_sklearn_intro.ipynb) — подробный IPython-notebook на русском языке;
 * [Туториал по Matplotlib](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html);
 * [Таблица названий цветов (png)](http://matplotlib.org/1.4.1/mpl_examples/color/named_colors.hires.png) в Python;
