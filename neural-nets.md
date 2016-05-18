@@ -12,6 +12,7 @@
 * [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – awesome recurrent neural networks;
 * [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016);
 * [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) от Google — короткий курс для продвинутых. Основное внимание уделяется библиотеке для глубинного обучения TensorFlow;
+* [Deep Learning at Oxford](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) (2015) – a YouTube playlist with lectures ([read more](http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/));
 * [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) – a curated list of deep learning resources for computer vision;
 * [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing);
 * [Deep Learning Tutorials](https://github.com/subokita/DeepLearningTutorials) – notes and code;
