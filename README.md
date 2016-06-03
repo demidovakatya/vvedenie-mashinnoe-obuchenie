@@ -74,7 +74,7 @@
 * [Python, IPython, Scikit-learn etc](/python.md)
 * [Code editors](/code-editors.md)
 * [LaTeX](/latex.md)
-* R (в работе)
+* [R](/r.md) (в работе)
 
 ### Доп. материалы к разделам курса
 
