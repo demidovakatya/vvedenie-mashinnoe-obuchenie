@@ -17,4 +17,5 @@
 * [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) – a curated list of the most cited deep learning papers (since 2010); 
 * [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing);
 * [Deep Learning Tutorials](https://github.com/subokita/DeepLearningTutorials) – notes and code;
+* [Self-Study Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses) от NVDIA — self-paced classes for deep learning that feature interactive lectures, hands-on exercises, and recordings of the office hours Q&A with instructors. You’ll learn everything you need to design, train, and integrate neural network-powered artificial intelligence into your applications with widely used open-source frameworks and NVIDIA software. During the hands-on exercises, you will use GPUs and deep learning software in the cloud;
 * [Natural Language Processing](https://www.coursera.org/course/nlp) – курс от Stanford University на Coursera.
