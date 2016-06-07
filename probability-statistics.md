@@ -10,7 +10,8 @@
 * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info) (также [на OpenEdu](https://openedu.ru/course/mipt/PROBTH/)) — курс от МФТИ, ведёт Райгородский А.М.;
 * [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – хорошие лекции и квизы, идеально для новичков. Минус — недоработанные практические задания (_Labs_) на DataCamp, которые не помогают закрепить выученный материал, а, скорее, отвлекают от изучения статистики;
 * [Probability and Statistics](https://www.khanacademy.org/math/probability) на KhanAcademy;
-* Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, на русском языке;  
+* [Основы статистики](https://stepic.org/course/76) на stepic.org — качественное введение в статистику, на русском языке;
+* [Основы статистики: часть 2](https://stepic.org/course/Основы-статистики-Часть-2-524) — курс продолжает знакомить слушателей с основными понятиями и методами статистики. Курс затронет такие темы как анализ номинативных данных, непараметрические критерии и методы понижения размерности;
 * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1);
 * [Intro to Statistics](https://www.udacity.com/courses/st101) — covers visualization, probability, regression and other topics that will help you learn the basic methods of understanding data with statistics;
 * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков. This course will teach you the basic terms and concepts in statistics as well as guide you through introductory probability;
