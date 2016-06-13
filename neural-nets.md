@@ -21,6 +21,7 @@
 * [Deep Learning Tutorials](https://github.com/subokita/DeepLearningTutorials) – notes and code;
 * [dl-docker](https://github.com/saiprashanths/dl-docker) – an all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.);
 * [Self-Study Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses) от NVDIA — self-paced classes for deep learning that feature interactive lectures, hands-on exercises, and recordings of the office hours Q&A with instructors. You’ll learn everything you need to design, train, and integrate neural network-powered artificial intelligence into your applications with widely used open-source frameworks and NVIDIA software. During the hands-on exercises, you will use GPUs and deep learning software in the cloud;
+* [deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow) - ensorFlow implementation of Deep Reinforcement Learning papers;
 
 ## Natural Language Processing
 

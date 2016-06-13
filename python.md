@@ -20,4 +20,5 @@
 * [@py_digest](https://telegram.me/py_digest) – канал в telegram, уведомляющий о последних новостях из мира Python;
 * [Pythonpedia](https://pythonpedia.com/) – энциклопедия ресурсов по программированию на Python;
 * [10 библиотек для визуализации данных](https://blog.modeanalytics.com/python-data-visualization-libraries/) на Python;
-* [tpot](https://github.com/rhiever/tpot) – A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+* [tpot](https://github.com/rhiever/tpot) – A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming;
+* The [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) code repository and info resource.
