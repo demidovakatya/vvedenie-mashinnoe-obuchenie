@@ -16,6 +16,7 @@
 * [Репозиторий](https://github.com/esokolov/ml-course-msu) с конспектами, кодом и прочими материалами к семинарам по машинному обучению ВМК МГУ;
 * Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/);
 * [100+ Free Data Science Books](http://www.learndatasci.com/free-books/) – более 100 бесплатных книг по Data Science;
+* [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/) — ещё 16 бесплатных книг по ML;
 * [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning);
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning);
 * [Доска](https://trello.com/b/rbpEfMld/data-science) по data science в Trello — проверенные материалы, организованные по темам (expertise tracks, языки программирования, различные инструменты);

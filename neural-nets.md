@@ -9,6 +9,7 @@
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)). During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision;
 * [Tensorflow — Neural Network Playground](http://playground.tensorflow.org/) – игрушечные нейросети в браузере ([:octocat: исходный код](https://github.com/tensorflow/playground));
 * [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – awesome recurrent neural networks;
+* [nmn2](https://github.com/jacobandreas/nmn2) – dynamically predicted neural network structures for multi-domain question answering. 
 
 ## Deep Learning
 
