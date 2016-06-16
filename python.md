@@ -21,4 +21,5 @@
 * [Pythonpedia](https://pythonpedia.com/) – энциклопедия ресурсов по программированию на Python;
 * [10 библиотек для визуализации данных](https://blog.modeanalytics.com/python-data-visualization-libraries/) на Python;
 * [tpot](https://github.com/rhiever/tpot) – A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming;
+* [Data Analysis Tutorials](https://pythonprogramming.net/data-analysis-tutorials/) – Python Programming tutorials from beginner to advanced on a massive variety of topics. All video and text tutorials are free;
 * The [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) code repository and info resource.
