@@ -9,6 +9,7 @@
 * [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics) от МФТИ, ведёт Райгородский А.М.;
 * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info) (также [на OpenEdu](https://openedu.ru/course/mipt/PROBTH/)) — курс от МФТИ, ведёт Райгородский А.М.;
 * [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – хорошие лекции и квизы, идеально для новичков. Минус — недоработанные практические задания (_Labs_) на DataCamp, которые не помогают закрепить выученный материал, а, скорее, отвлекают от изучения статистики;
+* [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro/home/welcome) от Duke University;
 * [Probability and Statistics](https://www.khanacademy.org/math/probability) на KhanAcademy;
 * [Основы статистики](https://stepic.org/course/76) на stepic.org — качественное введение в статистику, на русском языке;
 * [Основы статистики: часть 2](https://stepic.org/course/Основы-статистики-Часть-2-524) — курс продолжает знакомить слушателей с основными понятиями и методами статистики. Курс затронет такие темы как анализ номинативных данных, непараметрические критерии и методы понижения размерности;

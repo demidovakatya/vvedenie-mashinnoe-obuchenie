@@ -50,6 +50,7 @@
 * [Introduction To Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1117) - Nils J Nilsson (1997);
 * [The LION Way Machine Learning plus Intelligent Optimization](http://1.oito.eu/The-LION-Way-Machine-Learning-plus-Intelligent-Optimization.pdf) (pdf);
 * [Machine Learning](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) - Tom Mitchell;
+* [Machine Learning](http://www.mlyearning.org/) – Andrew Ng;
 * [Machine Learning, Neural and Statistical Classification](http://www.e-booksdirectory.com/details.php?ebook=1118) - D. Michie, D. J. Spiegelhalter;
 * [Machine Learning. The Art of Science of Algorithms that Make Sense of Data](http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221/) - P. Flach (2012);
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015);
