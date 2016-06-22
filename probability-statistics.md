@@ -18,6 +18,7 @@
 * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков. This course will teach you the basic terms and concepts in statistics as well as guide you through introductory probability;
 * [Intro to Inferential Statistics](https://www.udacity.com/courses/ud201) – курс знакомит с базовыми понятиями индуктивной статистики (t-test, ANOVA, корреляция, регрессия и др.);
 * [Introduction to Probability](http://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=pd_cp_14_1?ie=UTF8&refRID=0CF1J1X0J2JFR5JX7BYP) – Joseph K. Blitzstein (2014);
+* [Causal Inference in Statistics: A Primer](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1119186846,subjectCd-ST2A.html) – Pearl J., Glymour M.;
 * [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/) – Gareth James, D. Witten et. al;
 * [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219);
 * [Statistics 110: Probability](http://projects.iq.harvard.edu/stat110) – Гарвардский курс от Joseph K. Blitzstein;
