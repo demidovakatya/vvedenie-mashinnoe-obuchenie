@@ -6,6 +6,7 @@
 * [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) – Чернова Н.И. (НГУ, 2007);
 * [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu14.pdf) – Чернова Н.И. (НГУ, 2014);
 * [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/sibguti/ms-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009);
+* [Прикладная математическая статистика](http://www.ozon.ru/context/detail/id/18048756/) – Кобзарь А.;
 * [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics) от МФТИ, ведёт Райгородский А.М.;
 * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info) (также [на OpenEdu](https://openedu.ru/course/mipt/PROBTH/)) — курс от МФТИ, ведёт Райгородский А.М.;
 * [Basic Statistics](https://www.coursera.org/learn/basic-statistics) – хорошие лекции и квизы, идеально для новичков. Минус — недоработанные практические задания (_Labs_) на DataCamp, которые не помогают закрепить выученный материал, а, скорее, отвлекают от изучения статистики;
