@@ -19,6 +19,7 @@
 * [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/) — ещё 16 бесплатных книг по ML;
 * [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning);
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning);
+* [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course – this is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World;
 * [Доска](https://trello.com/b/rbpEfMld/data-science) по data science в Trello — проверенные материалы, организованные по темам (expertise tracks, языки программирования, различные инструменты);
 * [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs);
 * [People tweeting about ML and AI](http://blog.talla.com/2016/02/people-tweeting-about-machine-learning-and-ai/) — на кого подписаться в Твиттере;
