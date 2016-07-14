@@ -24,6 +24,7 @@
 * [Self-Study Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses) от NVDIA — self-paced classes for deep learning that feature interactive lectures, hands-on exercises, and recordings of the office hours Q&A with instructors. You’ll learn everything you need to design, train, and integrate neural network-powered artificial intelligence into your applications with widely used open-source frameworks and NVIDIA software. During the hands-on exercises, you will use GPUs and deep learning software in the cloud;
 * [deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow) - ensorFlow implementation of Deep Reinforcement Learning papers;
 * [TensorFlow 101](https://github.com/sjchoi86/Tensorflow-101) – Tensorflow tutorials;
+* [Introduction to Deep Learning for Image Recognition](https://github.com/rouseguy/scipyUS2016_dl-image) – this notebook accompanies the Introduction to Deep Learning for Image Recognition workshop to explain the core concepts of deep learning with emphasis on classifying images as the application;
 
 ## Natural Language Processing
 
