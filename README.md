@@ -39,7 +39,7 @@
 * [Applied Predictive Modeling](http://www.springer.com/us/book/9781461468486) – M. Kuhn, K. Johnson (2013);
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015);
 * [Core Concepts in Data Analysis: Summarization, Correlation and Visualization](http://www.springer.com/us/book/9780857292865) - Boris Mirkin;
-* [A Course in Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=9395) - Hal Daumé III;
+* [A Course in Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=9395) - Hal Daumé III ([another link](http://ciml.info));
 * [Data Mining: Concepts and Techniques](http://www.sciencedirect.com/science/book/9780123814791) - Jiawei Han et. al.;
 * [Data Mining and Analysis. Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf) - M.J.Zaki, W.Meira Jr (2014);
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015);
@@ -73,7 +73,7 @@
 
 * [Статистика и теория вероятностей](/probability-statistics.md)
 * [Линейная алгебра](/linalg.md)
-* Алгоритмы (в работе)
+* [Алгоритмы](/algorithms.md)
 * [Нейронные сети, глубинное обучение, NLP, AI](/neural-nets.md)
 * [Python, IPython, Scikit-learn etc](/python.md)
 * [Code editors](/code-editors.md)
