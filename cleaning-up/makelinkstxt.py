@@ -26,6 +26,6 @@ for line in lines:
         links.append([text, link])
 
 print("Saving to file...")
-with open('links.txt', 'w') as file:
+with open('cleaning-up/links.csv', 'w') as file:
     for item in links:
         file.write('"' + item[0] + '","' + item[1] + '";\n')
