@@ -7,6 +7,8 @@
 * [Дополнительные материалы](/extra-course_materials.md) к курсу «Введение в машинное обучение»,
 * [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc).
 
+<p style="text-align: center;"><a href="https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842">Литература для поступления в ШАД</a> :small_orange_diamond: <a href="https://bookmate.com/bookshelves/Nggk0rBi">Подборка научпоп-книг</a> :small_orange_diamond: Рекомендации от преподавателей <a href="https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python">курса «Математика и Python»</a> и <a href="/spec-recommendations.md">специализации</a></p>
+
 [![header](/head.png)](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)
 
 ----------------------------------------------------
@@ -33,8 +35,6 @@
 * Для фанатов [reddit.com](http://www.reddit.com) — [полезные и весёлые сабреддиты](/reddit.md) по машинному обучению и смежным темам.
 
 ## Библиотека ML-специалиста
-
-<p style="text-align: center;"><a href="https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842">Литература для поступления в ШАД</a> :small_orange_diamond: <a href="https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python">Рекомендации от преподавателей курса «Математика и Python»</a> :small_orange_diamond: <a href="https://bookmate.com/bookshelves/Nggk0rBi">Подборка научпоп-книг</a></p>
 
 * [Applied Predictive Modeling](http://www.springer.com/us/book/9781461468486) – M. Kuhn, K. Johnson (2013);
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015);
