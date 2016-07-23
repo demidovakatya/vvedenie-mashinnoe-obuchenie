@@ -31,4 +31,5 @@
 * [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing);
 * [Natural Language Processing](https://www.coursera.org/course/nlp) – курс от Stanford University на Coursera;
 * [Introduction to Natural Language Processing](https://www.coursera.org/learn/nlpintro);
-* [Natural Language Processing](https://www.coursera.org/course/nlangp) – курс от Columbia University.
+* [Natural Language Processing](https://www.coursera.org/course/nlangp) – курс от Columbia University;
+* [Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/europython2016_dl-nlp).
