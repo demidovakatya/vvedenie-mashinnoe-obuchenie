@@ -120,3 +120,13 @@
 * :small_blue_diamond: Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке;
 * [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft;
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению.
+
+----------------------------------------------------
+
+## Обсуждение машинного обучения в мессенджерах (группы, каналы, чаты, сообщества)
+
+* [Deep Learning Russia](https://telegram.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
+* [ModelOverfit](https://telegram.me/modeloverfit) — Канал сообщества modeloverfit
+* [Data Science](https://telegram.me/opendatascience) — Первый новостной канал про data science
+* [Big Data & Machine Learning](https://telegram.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
+* [Data Science Chat](https://telegram.me/datasciencechat) — Чат по теме Data Science
