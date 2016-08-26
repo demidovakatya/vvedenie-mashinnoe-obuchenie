@@ -18,6 +18,7 @@
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
 * [Курс по основам Python, алгоритмам и структурам данных](https://github.com/Yorko/python_intro). Курс представлен в виде тетрадок IPython;
 * [@py_digest](https://telegram.me/py_digest) – канал в telegram, уведомляющий о последних новостях из мира Python;
+* [Python](https://telegram.me/ru_python) – группа в telegram с общением и обсуждением языка программирования Python
 * [Pythonpedia](https://pythonpedia.com/) – энциклопедия ресурсов по программированию на Python;
 * [10 библиотек для визуализации данных](https://blog.modeanalytics.com/python-data-visualization-libraries/) на Python;
 * [tpot](https://github.com/rhiever/tpot) – A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming;
