@@ -14,6 +14,7 @@
 
 ## Deep Learning
 
+* [A great list of deep learning resources](https://omtcyfz.github.io/2016/08/29/Deep-Learning-Resources.html);
 * [Caffe](https://github.com/weiliu89/caffe) – a fast open framework for deep learning;
 * [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016);
 * [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) от Google — короткий курс для продвинутых. Основное внимание уделяется библиотеке для глубинного обучения TensorFlow;
