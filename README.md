@@ -46,10 +46,11 @@
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015);
 * [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do);
 * [Frequent Pattern Mining](https://mail.google.com/mail/u/1/#inbox/1536859aae027538) - Charu C Aggarwal, Jiawei Han (eds.); 
-* [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmussen, Christopher K. I. Williams;
+* [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmugit lssen, Christopher K. I. Williams;
 * [Inductive Logic Programming: Techniques and Applications](http://www.e-booksdirectory.com/details.php?ebook=1105) - Nada Lavrac, Saso Dzeroski;
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay;
 * [Introduction To Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1117) - Nils J Nilsson (1997);
+* [Foundations of Machine Learning](http://www.cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2012);
 * [The LION Way Machine Learning plus Intelligent Optimization](http://1.oito.eu/The-LION-Way-Machine-Learning-plus-Intelligent-Optimization.pdf) (pdf);
 * [Machine Learning](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) - Tom Mitchell;
 * [Machine Learning](http://www.mlyearning.org/) – Andrew Ng;
