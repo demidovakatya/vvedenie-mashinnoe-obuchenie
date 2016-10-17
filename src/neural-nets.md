@@ -9,10 +9,12 @@
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)). During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision;
 * [Tensorflow — Neural Network Playground](http://playground.tensorflow.org/) – игрушечные нейросети в браузере ([:octocat: исходный код](https://github.com/tensorflow/playground));
 * [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – awesome recurrent neural networks;
-* [nmn2](https://github.com/jacobandreas/nmn2) – dynamically predicted neural network structures for multi-domain question answering. 
+* [nmn2](https://github.com/jacobandreas/nmn2) – dynamically predicted neural network structures for multi-domain question answering;
+* [Nervana's Deep Learning Course](https://www.nervanasys.com/deep-learning-tutorials/).
 
 ## Deep Learning
 
+* [A great list of deep learning resources](https://omtcyfz.github.io/2016/08/29/Deep-Learning-Resources.html);
 * [Caffe](https://github.com/weiliu89/caffe) – a fast open framework for deep learning;
 * [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016);
 * [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) от Google — короткий курс для продвинутых. Основное внимание уделяется библиотеке для глубинного обучения TensorFlow;
@@ -31,4 +33,5 @@
 * [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing);
 * [Natural Language Processing](https://www.coursera.org/course/nlp) – курс от Stanford University на Coursera;
 * [Introduction to Natural Language Processing](https://www.coursera.org/learn/nlpintro);
-* [Natural Language Processing](https://www.coursera.org/course/nlangp) – курс от Columbia University.
+* [Natural Language Processing](https://www.coursera.org/course/nlangp) – курс от Columbia University;
+* [Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/europython2016_dl-nlp).

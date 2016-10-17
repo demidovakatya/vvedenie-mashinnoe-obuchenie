@@ -7,6 +7,8 @@
 * [Дополнительные материалы](/extra-course_materials.md) к курсу «Введение в машинное обучение»,
 * [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc).
 
+<p style="text-align: center;"><a href="https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842">Литература для поступления в ШАД</a> :small_orange_diamond: <a href="https://bookmate.com/bookshelves/Nggk0rBi">Подборка научпоп-книг</a> :small_orange_diamond: Рекомендации от преподавателей <a href="https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python">курса «Математика и Python»</a> и <a href="/spec-recommendations.md">специализации</a></p>
+
 [![header](/head.png)](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)
 
 ----------------------------------------------------
@@ -30,11 +32,10 @@
 * [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html) — огромный список вопросов для подготовки к интервью на позицию data scientist'а;
 * [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing);
 * [Список](/datasets.md) открытых источников данных, на которых можно найти бесплатные датасеты;
-* Для фанатов [reddit.com](http://www.reddit.com) — [полезные и весёлые сабреддиты](/reddit.md) по машинному обучению и смежным темам.
+* Для фанатов [reddit.com](http://www.reddit.com) — [полезные и весёлые сабреддиты](/reddit.md) по машинному обучению и смежным темам;
+* Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov).
 
 ## Библиотека ML-специалиста
-
-<p style="text-align: center;"><a href="https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842">Литература для поступления в ШАД</a> :small_orange_diamond: <a href="https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python">Рекомендации от преподавателей курса «Математика и Python»</a> :small_orange_diamond: <a href="https://bookmate.com/bookshelves/Nggk0rBi">Подборка научпоп-книг</a></p>
 
 * [Applied Predictive Modeling](http://www.springer.com/us/book/9781461468486) – M. Kuhn, K. Johnson (2013);
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015);
@@ -45,10 +46,11 @@
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015);
 * [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do);
 * [Frequent Pattern Mining](https://mail.google.com/mail/u/1/#inbox/1536859aae027538) - Charu C Aggarwal, Jiawei Han (eds.); 
-* [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmussen, Christopher K. I. Williams;
+* [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmugit lssen, Christopher K. I. Williams;
 * [Inductive Logic Programming: Techniques and Applications](http://www.e-booksdirectory.com/details.php?ebook=1105) - Nada Lavrac, Saso Dzeroski;
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay;
 * [Introduction To Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1117) - Nils J Nilsson (1997);
+* [Foundations of Machine Learning](http://www.cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2012);
 * [The LION Way Machine Learning plus Intelligent Optimization](http://1.oito.eu/The-LION-Way-Machine-Learning-plus-Intelligent-Optimization.pdf) (pdf);
 * [Machine Learning](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) - Tom Mitchell;
 * [Machine Learning](http://www.mlyearning.org/) – Andrew Ng;
@@ -119,3 +121,13 @@
 * :small_blue_diamond: Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке;
 * [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft;
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению.
+
+----------------------------------------------------
+
+## Обсуждение машинного обучения в мессенджерах (группы, каналы, чаты, сообщества)
+
+* [Deep Learning Russia](https://telegram.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
+* [ModelOverfit](https://telegram.me/modeloverfit) — Канал сообщества modeloverfit
+* [Data Science](https://telegram.me/opendatascience) — Первый новостной канал про data science
+* [Big Data & Machine Learning](https://telegram.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
+* [Data Science Chat](https://telegram.me/datasciencechat) — Чат по теме Data Science
