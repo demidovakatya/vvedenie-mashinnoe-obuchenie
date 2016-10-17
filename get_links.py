@@ -23,24 +23,43 @@ def get_link_from_line(line):
     return link
 
 def get_text_from_line(line):
-    text = re.sub('^\* |\[|\]|\(https?://[^\)]*\)', '', line)
+    # remove urls
+    text = re.sub('\(https?://[^\)]*\)', '', line)
+    # remove punctuation
+    text = re.sub('^[\*\+] |\[|\]|[\.;,]$', '', text)
+    text = re.sub(':[\w_]*:', '', text)
+    text = re.sub('\s+', ' ', text)
+    text = re.sub('"', '\'', text)
+    text = text.strip()
     return text
 
 files = get_files()
 
-lines = []
+data = 'data'
+if not data in os.listdir():
+    os.mkdir(data)
+
+all_lines = []
+with open(os.path.join(data, 'links.csv'), 'w') as f:
+    f.flush()
 for file in files:
-    lines += [line for line in get_lines(file) if line_is_valid(line)]
+    tags = re.sub('\.md', '', file)
+    # if tags == 'README':
+    #     tags = 'machinelearning'
+    # if tags == 'spec-recommendations':
+    #     tags = 'specialization'
 
-with open('./lines.csv', 'w') as f:
+    lines = [line for line in get_lines(file) if line_is_valid(line)]
+    all_lines += lines
+
+    links = []
     for line in lines:
-        f.write(line + ';\n')
+        item = (get_text_from_line(line), 
+                get_link_from_line(line), 
+                tags)
+        links.append(item)
+        with open(os.path.join(data, 'links.csv'), 'a') as f:
+            f.write('"%s","%s","%s"\n' % item)
 
-links = []
-for line in lines:
-    item = (get_link_from_line(line), get_text_from_line(line))
-    links.append(item)
-    with open('./links.csv', 'w') as f:
-        f.write('' + item[0] + '\t' + item[1] + '\n')
-
-
+with open(os.path.join(data, 'lines.csv'), 'w') as f:
+    f.write('\n'.join(all_lines))
