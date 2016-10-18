@@ -38,7 +38,7 @@ def get_text_from_line(line):
     text = re.sub('\[|\]', '', text)
     # remove punctuation
     text = re.sub('^[\*\+] |[\.;,]$', '', text)
-    text = re.sub(':[\w_]*:', '', text)
+    text = re.sub(':[\w_]*: ', '', text)
     # remove extra spaces
     text = re.sub('\s+', ' ', text)
     # make quotes safe

@@ -62,6 +62,7 @@ def remove_duplicates(df):
     d.drop_duplicates(['text', 'url'], inplace=True)
     df = pd.concat([df, d])
     df = df.reset_index()
+    df = df.drop('index', axis = 1)
     return df
 
 def tags_to_list(df):
@@ -106,6 +107,13 @@ tags_words = {
     'statistics' : 'статистик|statistics',
     'probability' : 'вероятнос|probability'
 }
+
+def add_tag_pdf(df):
+    for i in df.index:
+        if df.url[i].endswith('.pdf'):
+            df.tags[i].append('pdf')
+    return df
+
 def add_tags(df, tags_sites):#, tags_words):
     tags = list
     for tag, sites in tags_sites.items():
@@ -113,7 +121,7 @@ def add_tags(df, tags_sites):#, tags_words):
     
     # for tag, words in tags_words.items():
     #     df = add_tag_for_word(df, tag, words)
-    
+    df = add_tag_pdf(df)
     return df
 
 
@@ -124,8 +132,11 @@ df = tags_to_list(df)
 df = add_url_base(df)
 df = add_tags(df, tags_sites)
 
-for t in df.loc[[len(re.findall('статистик|statistics', t)) > 0 for t in df['text']], 'tags']:
-    t.append('statistics')
+for t in df.loc[[len(re.findall('algorithms', t)) > 0 for t in df['text']], 'tags']:
+    t.append('algorithms')
 
-for t in df.loc[[len(re.findall('вероятнос|probability', t)) > 0 for t in df['text']], 'tags']:
-    t.append('probability')
+# for t in df.loc[[len(re.findall('статистик|statistics', t)) > 0 for t in df['text']], 'tags']:
+#     t.append('statistics')
+
+# for t in df.loc[[len(re.findall('вероятнос|probability', t)) > 0 for t in df['text']], 'tags']:
+#     t.append('probability')
