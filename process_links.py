@@ -49,6 +49,21 @@ def replace_tags(df):
     df = df.replace({'tags' : replacements})    
     return df
 
+def remove_duplicates(df):
+    dup_index = df.index[df[['url', 'text']].duplicated(keep = False)]
+    duplicates = df.loc[dup_index, :]
+    df_ = df.copy()
+    df = df.drop(dup_index)
+
+    d = duplicates.merge(duplicates, on = ['text', 'url'], suffixes=('', '_'))
+    for i in d.index:
+        d.loc[i, 'tags'] = d.loc[i, 'tags'] + ' ' + d.loc[i, 'tags_']
+    d.drop(['tags_'], axis = 1, inplace=True)
+    d.drop_duplicates(['text', 'url'], inplace=True)
+    df = pd.concat([df, d])
+    df = df.reset_index()
+    return df
+
 def tags_to_list(df):
     tags = df['tags']
     tags_list = [t.split() for t in tags]
@@ -104,6 +119,7 @@ def add_tags(df, tags_sites):#, tags_words):
 
 df_ = df.copy()
 df = replace_tags(df)
+df = remove_duplicates(df)
 df = tags_to_list(df)
 df = add_url_base(df)
 df = add_tags(df, tags_sites)
