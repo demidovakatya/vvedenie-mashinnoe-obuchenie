@@ -10,7 +10,8 @@
 * [Tensorflow — Neural Network Playground](http://playground.tensorflow.org/) – игрушечные нейросети в браузере ([:octocat: исходный код](https://github.com/tensorflow/playground));
 * [awesome-rnn](https://github.com/kjw0612/awesome-rnn) – awesome recurrent neural networks;
 * [nmn2](https://github.com/jacobandreas/nmn2) – dynamically predicted neural network structures for multi-domain question answering;
-* [Nervana's Deep Learning Course](https://www.nervanasys.com/deep-learning-tutorials/).
+* [Nervana's Deep Learning Course](https://www.nervanasys.com/deep-learning-tutorials/);
+* [Всё об искусственном интеллекте](https://ai-science.ru/) – машинное обучение, нейронные сети, генетические алгоритмы и всё, что связано с искусственным интеллектом.
 
 ## Deep Learning
 
