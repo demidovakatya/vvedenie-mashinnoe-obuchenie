@@ -15,6 +15,7 @@
 
 * [Машинное обучение: вводная лекция](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf) – К. В. Воронцов;
 * [Математические методы обучения по прецедентам (теория обучения машин)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf) – К. В. Воронцов;
+* [Видеолекции курса «Машинное обучение»](https://yandexdataschool.ru/edu-process/courses/machine-learning), одного из основных курсов в Школе Анализа Данных Яндекса. Преподаватель — Константин Вячеславович Воронцов;
 * [Репозиторий](https://github.com/esokolov/ml-course-msu) с конспектами, кодом и прочими материалами к семинарам по машинному обучению ВМК МГУ;
 * Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/);
 * [100+ Free Data Science Books](http://www.learndatasci.com/free-books/) – более 100 бесплатных книг по Data Science;
