@@ -28,6 +28,7 @@
 * [deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow) - ensorFlow implementation of Deep Reinforcement Learning papers;
 * [TensorFlow 101](https://github.com/sjchoi86/Tensorflow-101) – Tensorflow tutorials;
 * [Introduction to Deep Learning for Image Recognition](https://github.com/rouseguy/scipyUS2016_dl-image) – this notebook accompanies the Introduction to Deep Learning for Image Recognition workshop to explain the core concepts of deep learning with emphasis on classifying images as the application;
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) for anyone who are eager to learn this amazing tech!
 
 ## Natural Language Processing
 
