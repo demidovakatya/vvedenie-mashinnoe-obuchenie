@@ -30,3 +30,4 @@
 * [python_reference](https://github.com/rasbt/python_reference) – Useful functions, tutorials, and other Python-related things
 * [algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks) – A repository with IPython notebooks of algorithms implemented in Python
 * [awesome-python](https://github.com/vinta/awesome-python) – A curated list of awesome Python frameworks, libraries, software and resources (http://awesome-python.com/)
+* [pandas-exercises](https://github.com/guipsamora/pandas_exercises/) – Practice your pandas skills!
