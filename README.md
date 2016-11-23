@@ -36,7 +36,8 @@
 * Для фанатов [reddit.com](http://www.reddit.com) — [полезные и весёлые сабреддиты](/reddit.md) по машинному обучению и смежным темам;
 * Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov);
 * [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer;
-* [Training on ML, data analysis, decisions analysis of competition at Kaggle](http://mltrainings.ru/?filter=active) - текущие тренировки на Kaggle.
+* [Training on ML, data analysis, decisions analysis of competition at Kaggle](http://mltrainings.ru/?filter=active) - текущие тренировки на Kaggle;
+* [Tutorials on topics in machine learning](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mltut.htm).
 
 ## Библиотека ML-специалиста
 
