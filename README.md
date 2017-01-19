@@ -34,7 +34,11 @@
 * [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing);
 * [Список](/datasets.md) открытых источников данных, на которых можно найти бесплатные датасеты;
 * Для фанатов [reddit.com](http://www.reddit.com) — [полезные и весёлые сабреддиты](/reddit.md) по машинному обучению и смежным темам;
-* Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov).
+* Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov);
+* [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer;
+* [Training on ML, data analysis, decisions analysis of competition at Kaggle](http://mltrainings.ru/?filter=active) - текущие тренировки на Kaggle;
+* [Tutorials on topics in machine learning](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mltut.htm);
+* [Data Mining in Action](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) course materials, Moscow Institute of Physics and Technologies.
 
 ## Библиотека ML-специалиста
 
