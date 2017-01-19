@@ -1,4 +1,4 @@
-# Нейронные сети, глубинное обучение, NLP
+# Нейронные сети и глубинное обучение
 
 
 * [Лекции по искусственным нейронным сетям](http://www.ccas.ru/voron/download/NeuralNets.pdf) — К. В. Воронцов;
@@ -28,13 +28,4 @@
 * [deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow) - ensorFlow implementation of Deep Reinforcement Learning papers;
 * [TensorFlow 101](https://github.com/sjchoi86/Tensorflow-101) – Tensorflow tutorials;
 * [Introduction to Deep Learning for Image Recognition](https://github.com/rouseguy/scipyUS2016_dl-image) – this notebook accompanies the Introduction to Deep Learning for Image Recognition workshop to explain the core concepts of deep learning with emphasis on classifying images as the application;
-* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) for anyone who are eager to learn this amazing tech!
-
-## Natural Language Processing
-
-* [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing);
-* [Natural Language Processing](https://www.coursera.org/course/nlp) – курс от Stanford University на Coursera;
-* [Introduction to Natural Language Processing](https://www.coursera.org/learn/nlpintro);
-* [Natural Language Processing](https://www.coursera.org/course/nlangp) – курс от Columbia University;
-* [Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/europython2016_dl-nlp);
-* [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) – tutorial competition on Kaggle. 
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) for anyone who are eager to learn this amazing tech
