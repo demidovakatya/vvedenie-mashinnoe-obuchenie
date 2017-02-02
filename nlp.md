@@ -7,3 +7,4 @@
 * [Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/europython2016_dl-nlp);
 * [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) – tutorial competition on Kaggle;
 * [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp)
+* [Stanford's live demo for predicting the sentiment of movie reviews](http://nlp.stanford.edu/sentiment/)
