@@ -33,4 +33,6 @@
 * [Practical Deep Learning For Coders](http://course.fast.ai)
 * [Глубинное обучение (курс лекций)](http://www.machinelearning.ru/wiki/index.php?title=Dl);
 * [Fork of Lempitsky DL for HSE master students](https://github.com/yandexdataschool/HSE_deeplearning);
-* [DL Course Materials](https://github.com/ddtm/dl-course) - часть материалов курса Лемпицкого.
+* [DL Course Materials](https://github.com/ddtm/dl-course) - часть материалов курса Лемпицкого;
+* [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html) – A 1-week extensive survey of deep learning methods and applications.
+
