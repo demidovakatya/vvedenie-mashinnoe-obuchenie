@@ -2,17 +2,30 @@
 
 #### Оглавление
 
-* :books: [Библиотека ML-специалиста](#Библиотека-ml-специалиста),
-* [По темам](#По-темам): линейная алгебра, тервер, Латех и т.д. + темы из программы курса,
-* [Дополнительные материалы](/extra-course_materials.md) к курсу «Введение в машинное обучение»,
-* [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc).
-
-<p style="text-align: center;"><a href="https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842">Литература для поступления в ШАД</a> :small_orange_diamond: <a href="https://bookmate.com/bookshelves/Nggk0rBi">Подборка научпоп-книг</a> :small_orange_diamond: Рекомендации от преподавателей <a href="https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master/mathematics-and-python">курса «Математика и Python»</a> и <a href="/spec-recommendations.md">специализации</a></p>
+* [Библиотека ML-специалиста](#Библиотека-ml-специалиста) + выбор редакции:
+  * [Дополнительные материалы](/extra-course_materials.md) к курсу «Введение в машинное обучение»,
+  * [Рекомендации](/spec-recommendations.md) от преподавателей [специализации «Машинное обучение и анализ данных»](https://github.com/demidovakatya/mashinnoye-obucheniye)
+  * [Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)
+  * [Подборка научпоп-книг](https://bookmate.com/bookshelves/Nggk0rBi);
+* По темам: 
+  * [Статистика и теория вероятностей](/probability-statistics.md)
+  * [Линейная алгебра](/linalg.md)
+  * [Алгоритмы](/algorithms.md)
+  * [Нейронные сети, глубинное обучение, NLP, AI](/neural-nets.md)
+  * [Python, IPython, Scikit-learn etc](/python.md)
+  * [Code editors](/code-editors.md)
+  * [LaTeX](/latex.md)
+  * [R](/r.md)
+  * [JavaScript-библиотеки для визуализации данных](/js-libraries.md)
+  * [NLP](/nlp.md)
+* [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc);
+* [Чаты/паблики/каналы про ML](#Social).
 
 [![header](/head.png)](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)
 
 ----------------------------------------------------
 
+* [Календарь соревнований по анализу данных](http://mltrainings.ru/?filter=active);
 * [Машинное обучение: вводная лекция](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf) – К. В. Воронцов;
 * [Математические методы обучения по прецедентам (теория обучения машин)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf) – К. В. Воронцов;
 * [Видеолекции курса «Машинное обучение»](https://yandexdataschool.ru/edu-process/courses/machine-learning), одного из основных курсов в Школе Анализа Данных Яндекса. Преподаватель — Константин Вячеславович Воронцов;
@@ -24,21 +37,19 @@
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning);
 * [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course – this is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World;
 * [Доска](https://trello.com/b/rbpEfMld/data-science) по data science в Trello — проверенные материалы, организованные по темам (expertise tracks, языки программирования, различные инструменты);
-* [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs);
-* [People tweeting about ML and AI](http://blog.talla.com/2016/02/people-tweeting-about-machine-learning-and-ai/) — на кого подписаться в Твиттере;
 * [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf);
 * [17 ресурсов по машинному обучению](http://tproger.ru/articles/free-programming-books/#machine-learning) от Типичного Программиста;
 * [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек (*toy data problem*) в Data Science;
 * [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
 * [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html) — огромный список вопросов для подготовки к интервью на позицию data scientist'а;
-* [Много книг по NLP](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0) (Natural Language Processing);
+* [Много книг по Natural Language Processing](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0);
 * [Список](/datasets.md) открытых источников данных, на которых можно найти бесплатные датасеты;
-* Для фанатов [reddit.com](http://www.reddit.com) — [полезные и весёлые сабреддиты](/reddit.md) по машинному обучению и смежным темам;
 * Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov);
 * [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer;
-* [Training on ML, data analysis, decisions analysis of competition at Kaggle](http://mltrainings.ru/?filter=active) - текущие тренировки на Kaggle;
 * [Tutorials on topics in machine learning](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mltut.htm);
 * [Data Mining in Action](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) course materials, Moscow Institute of Physics and Technologies.
+
+----------------------------------------------------
 
 ## Библиотека ML-специалиста
 
@@ -75,30 +86,13 @@
 
 ----------------------------------------------------
 
-## По темам
-
-Тематические подборки:
-
-* [Статистика и теория вероятностей](/probability-statistics.md)
-* [Линейная алгебра](/linalg.md)
-* [Алгоритмы](/algorithms.md)
-* [Нейронные сети, глубинное обучение, NLP, AI](/neural-nets.md)
-* [Python, IPython, Scikit-learn etc](/python.md)
-* [Code editors](/code-editors.md)
-* [LaTeX](/latex.md)
-* [R](/r.md)
-* [JavaScript-библиотеки для визуализации данных](/js-libraries.md)
-* [NLP](/nlp.md)
-
-----------------------------------------------------
-
 ## Онлайн-курсы (MOOC)
 
 * [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses);
 * [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses);
 * Coursera:
-  * :small_blue_diamond: [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению (осторожно, вместо стандартных Питона или R – Matlab/Octave);
-  * :small_blue_diamond: Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. У меня по этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye);
+  * [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению (осторожно, вместо стандартных Питона или R – Matlab/Octave);
+  * Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. У меня по этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye);
   * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info) — очень доходчивый курс, подходит в качестве самого первого курса по ML;
   * [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics/);
   * [Calculus: Single Variable Part 1](https://www.coursera.org/learn/single-variable-calculus) от University of Pennsylvania;
@@ -125,17 +119,46 @@
 * [Learning from Data](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения);
 * [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses);
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
-* :small_blue_diamond: Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке;
+* Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке;
 * [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft;
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению;
 * [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+Fall2016/about) - курс, основанный на книге Mining of Massive Datasets авторов Jure Leskovec, Anand Rajaraman, and Jeff Ullman (они же являются инструкторами этого курса).
 
 ----------------------------------------------------
 
-## Обсуждение машинного обучения в мессенджерах (группы, каналы, чаты, сообщества)
+## Social
 
-* [Deep Learning Russia](https://telegram.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
-* [ModelOverfit](https://telegram.me/modeloverfit) — Канал сообщества modeloverfit
-* [Data Science](https://telegram.me/opendatascience) — Первый новостной канал про data science
-* [Big Data & Machine Learning](https://telegram.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
-* [Data Science Chat](https://telegram.me/datasciencechat) — Чат по теме Data Science
+Обсуждение машинного обучения в мессенджерах (группы, каналы, чаты, сообщества).
+
+* [Open Data Science](http://ods.ais)
+* [Посвященная московским ML-тренировкам группа в facebook](https://www.facebook.com/groups/1413405125598651/)
+* [и группа вконтакте про тренировки по машинному обучению](https://vk.com/mltrainings)
+* Паблики/группы вконтакте:
+  * [Data Science](https://vk.com/datascience)
+  * [Deep Learning](https://vk.com/deeplearning)
+  * [Data Mining Labs](https://vk.com/datamininglabs)
+  * [DeepLearning (Глубокие нейронные сети)](https://vk.com/deeplearning_ru)
+  * [Мемы про машинное обучение для взрослых мужиков](https://vk.com/weirdkerneltricks)
+* В телеграме:
+  * [Канал сообщества DeepLearning](https://telegram.me/deeplearning_ru)
+  * [Канал сообщества modeloverfit](https://telegram.me/modeloverfit)
+  * [Первый новостной канал про data science](https://telegram.me/opendatascience)
+  * [Чат по большим данным, обработке и машинному обучению — Big Data & Machine Learning](https://telegram.me/bigdata_ru)
+  * [Чат по теме Data Science — Data Science Chat](https://telegram.me/datasciencechat)
+* [Сабреддиты по машинному обучению и смежным темам](/reddit.md)
+* [People tweeting about ML and AI](http://blog.talla.com/2016/02/people-tweeting-about-machine-learning-and-ai/)
+* [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs) + список:
+  * [http://distill.pub/](http://distill.pub/)
+  * [http://inference.vc/](http://inference.vc/)
+  * [http://karpathy.github.io/](http://karpathy.github.io/)
+  * [http://deliprao.com/](http://deliprao.com/)
+  * [http://fastml.com/](http://fastml.com/)
+  * [http://timvieira.github.io/](http://timvieira.github.io/)
+  * [https://blogs.princeton.edu/](https://blogs.princeton.edu/)
+  * [http://www.offconvex.org/](http://www.offconvex.org/)
+  * [http://www.wildml.com/](http://www.wildml.com/)
+  * [http://sebastianruder.com/](http://sebastianruder.com/)
+  * [http://www.argmin.net/](http://www.argmin.net/)
+  * [http://nlpers.blogspot.ru/](http://nlpers.blogspot.ru/)
+  * [http://blog.shakirm.com/](http://blog.shakirm.com/)
+
