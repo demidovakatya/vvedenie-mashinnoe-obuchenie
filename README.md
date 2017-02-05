@@ -33,6 +33,7 @@
 * Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/);
 * [100+ Free Data Science Books](http://www.learndatasci.com/free-books/) – более 100 бесплатных книг по Data Science;
 * [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/) — ещё 16 бесплатных книг по ML;
+* [Free O'Reilly data science ebooks](http://www.oreilly.com/data/free/archive.html);
 * [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning);
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning);
 * [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course – this is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World;
