@@ -36,3 +36,4 @@
 * [DL Course Materials](https://github.com/ddtm/dl-course) - часть материалов курса Лемпицкого;
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html) – A 1-week extensive survey of deep learning methods and applications
 * [Deep Learning Study Group](https://github.com/the-deep-learners)
+* [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
