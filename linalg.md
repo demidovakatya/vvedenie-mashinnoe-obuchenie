@@ -1,5 +1,6 @@
 # Линейная алгебра
 
+* [https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](Essence of linear algebra) – уникальное по наглядности введение
 * Sheldon Axler "Linear algebra done right"
 * [Treil's Linear Algebra Done Wrong. More rigorous, but not more terse](http://www.math.brown.edu/~treil/papers/LADW/LADW.html)
 * [Курс по линейной алгебре на stepic](https://stepic.org/course/Linear-Algebra-Problems-and-Methods-79/syllabus)
