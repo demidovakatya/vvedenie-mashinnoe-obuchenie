@@ -25,7 +25,7 @@
 * [Туториал по Matplotlib](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
 * [The python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) code repository and info resource
 * [Заметка по IPython Notebook](http://re9ulus.github.io/2016/01/09/ipython-notebook/)
-* [Очень большой список](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) интересных питоновских ноутбуков (от туториалов на три минуты, до целых книг (!) в таком формате)
+* [Очень большой список](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks) интересных питоновских ноутбуков (от туториалов на три минуты, до целых книг (!) в таком формате)
 * [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/) — в помощь тем, кто в первый раз столкнулся с Python и/или Pandas
 * [python_reference](https://github.com/rasbt/python_reference) – Useful functions, tutorials, and other Python-related things
 * [algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks) – A repository with IPython notebooks of algorithms implemented in Python
