@@ -18,3 +18,4 @@
 * [не знаю, что, но про аудио](http://multitrack.eecs.qmul.ac.uk)
 * [куча датасетов на сайте университета Пампеу Фабра (там хорошая лаборатория по music information retrieval)](http://mtg.upf.edu/download/datasets)
 * [FMA: A Dataset For Music Analysis — в нем 100000 песен, с метой, говорят, что лучше MSD в том плане, что raw audio, не предобработанные Echonest'ом треки](https://arxiv.org/abs/1612.01840)
+* [MusicNet — A curated collection of labeled classical music](http://homes.cs.washington.edu/~thickstn/musicnet.html)
