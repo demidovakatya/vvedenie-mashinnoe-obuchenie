@@ -1,16 +1,17 @@
 # Open Datasets
 
-* [Kaggle](https://www.kaggle.com/datasets);
-* [Google’s Public Data Sets](https://cloud.google.com/bigquery/public-data/);
-* [/r/datasets](https://www.reddit.com/r/datasets);
-* [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/);
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) – an awesome list of high-quality open datasets in public domains (on-going);
-* [Реестр наборов открытых данных](http://data.gov.ru/opendata) на data.gov.ru.
+* [Kaggle’s open data platform](https://www.kaggle.com/datasets)
+* [Google’s Public Data Sets](https://cloud.google.com/bigquery/public-data/)
+* [/r/datasets](https://www.reddit.com/r/datasets)
+* [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+* [awesome-public-datasets – an awesome list of high-quality open datasets in public domains (on-going)](https://github.com/caesar0301/awesome-public-datasets)
+* [Реестр наборов открытых данных на data.gov.ru](http://data.gov.ru/opendata)
+* [Большой перечень больших по размеру публичных датасетов](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 
 ## Музыка
 
 * [Million song dataset – классический датасет на 280 гигов](http://labrosa.ee.columbia.edu/millionsong/)
-* [датасет MIDI, частично сметченный с аудио из million song dataset](http://colinraffel.com/projects/lmd/)
+* [датасет MIDI, частично сматченный с аудио из million song dataset](http://colinraffel.com/projects/lmd/)
 * [синхронизация фортепианных аудио и MIDI](https://www.audiolabs-erlangen.de/resources/MIR/SMD/midi)
 * для рекомендаций (фидбек всякий):
     * [http://mtg.upf.edu/download/datasets/knowledge-graph-rec](http://mtg.upf.edu/download/datasets/knowledge-graph-rec)
