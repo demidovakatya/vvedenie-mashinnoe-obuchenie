@@ -11,7 +11,7 @@
   * [Статистика и теория вероятностей](/probability-statistics.md)
   * [Линейная алгебра](/linalg.md)
   * [Алгоритмы](/algorithms.md)
-  * [Нейронные сети, глубинное обучение, NLP, AI](/neural-nets.md)
+  * [Нейронные сети, Deep learning](/neural-nets.md)
   * [Python, IPython, Scikit-learn etc](/python.md)
   * [Code editors](/code-editors.md)
   * [LaTeX](/latex.md)
