@@ -12,3 +12,4 @@
 * [immersive linear algebra](http://immersivemath.com/ila/index.html) – online linear algebra book with fully interactive figures;
 * [Линейная алгебра](https://www.coursera.org/course/linalg) от ВШЭ. Курс линейной алгебры для нематематических факультетов, подходит «для быстрого старта»;
 * [MIT 18.06 Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) – by Professor Gilbert Strang
+* [Высшая математика. Линейная алгебра и элементы топологии](https://openedu.ru/course/mipt/HIGHMATH2/)
