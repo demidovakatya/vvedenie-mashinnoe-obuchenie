@@ -40,3 +40,4 @@
 * [Deep Learning Study Group](https://github.com/the-deep-learners)
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+* [CS 294: Deep Reinforcement Learning, Spring 2017](https://mega.nz/#F!Ap4n2bLb!e6QZqN_npmWjE-CQldBKZw)
