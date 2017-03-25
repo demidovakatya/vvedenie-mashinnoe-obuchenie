@@ -54,37 +54,38 @@
 
 ## Библиотека ML-специалиста
 
-* [Applied Predictive Modeling](http://www.springer.com/us/book/9781461468486) – M. Kuhn, K. Johnson (2013);
-* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015);
-* [Core Concepts in Data Analysis: Summarization, Correlation and Visualization](http://www.springer.com/us/book/9780857292865) - Boris Mirkin;
-* [A Course in Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=9395) - Hal Daumé III ([another link](http://ciml.info));
-* [Data Mining: Concepts and Techniques](http://www.sciencedirect.com/science/book/9780123814791) - Jiawei Han et. al.;
-* [Data Mining and Analysis. Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf) - M.J.Zaki, W.Meira Jr (2014);
-* [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015);
-* [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do);
-* [Frequent Pattern Mining](https://mail.google.com/mail/u/1/#inbox/1536859aae027538) - Charu C Aggarwal, Jiawei Han (eds.); 
-* [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmugit lssen, Christopher K. I. Williams;
-* [Inductive Logic Programming: Techniques and Applications](http://www.e-booksdirectory.com/details.php?ebook=1105) - Nada Lavrac, Saso Dzeroski;
-* [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay;
-* [Introduction To Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1117) - Nils J Nilsson (1997);
-* [Foundations of Machine Learning](http://www.cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2012);
-* [The LION Way Machine Learning plus Intelligent Optimization](http://1.oito.eu/The-LION-Way-Machine-Learning-plus-Intelligent-Optimization.pdf) (pdf);
-* [Machine Learning](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) - Tom Mitchell;
-* [Machine Learning](http://www.mlyearning.org/) – Andrew Ng;
-* [Machine Learning, Neural and Statistical Classification](http://www.e-booksdirectory.com/details.php?ebook=1118) - D. Michie, D. J. Spiegelhalter;
-* [Machine Learning. The Art of Science of Algorithms that Make Sense of Data](http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221/) - P. Flach (2012);
-* [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015);
-* [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006);
-* [Machine Learning in Action](https://www.manning.com/books/machine-learning-in-action) - Peter Harrington;
-* [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free);
-* [R in Action](https://www.manning.com/books/r-in-action);
-* [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto;
-* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html);
-* [Анализ больших наборов данных](http://dmkpress.com/catalog/computer/data/978-5-97060-190-7/) - перевод [Mining Massive Datasets](http://www.mmds.org/) - Jure Leskovec, Anand Rajaraman, Jeff Ullman;
-* [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах;
-* [Построение систем машинного обучения](https://vk.com/doc190970339_437111950) — Л. П. Коэльо, В. Ричарт (2016);
-* [Методы ансамблирования обучающихся алгоритмов](http://www.machinelearning.ru/wiki/images/5/56/Guschin2015Stacking.pdf) — диссертация А. Гущина.
-
+* [Applied Predictive Modeling](http://www.springer.com/us/book/9781461468486) – M. Kuhn, K. Johnson (2013)
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015)
+* [Core Concepts in Data Analysis: Summarization, Correlation and Visualization](http://www.springer.com/us/book/9780857292865) - Boris Mirkin
+* [A Course in Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=9395) - Hal Daumé III ([another link](http://ciml.info))
+* [Data Mining: Concepts and Techniques](http://www.sciencedirect.com/science/book/9780123814791) - Jiawei Han et. al.
+* [Data Mining and Analysis. Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf) - M.J.Zaki, W.Meira Jr (2014)
+* [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015)
+* [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
+* [Frequent Pattern Mining](https://mail.google.com/mail/u/1/#inbox/1536859aae027538) - Charu C Aggarwal, Jiawei Han (eds.);
+* [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmugit lssen, Christopher K. I. Williams
+* [Inductive Logic Programming: Techniques and Applications](http://www.e-booksdirectory.com/details.php?ebook=1105) - Nada Lavrac, Saso Dzeroski
+* [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay
+* [Introduction To Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1117) - Nils J Nilsson (1997)
+* [Foundations of Machine Learning](http://www.cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2012)
+* [The LION Way Machine Learning plus Intelligent Optimization](http://1.oito.eu/The-LION-Way-Machine-Learning-plus-Intelligent-Optimization.pdf) (pdf)
+* [Machine Learning](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf) - Tom Mitchell
+* [Machine Learning](http://www.mlyearning.org/) – Andrew Ng
+* [Machine Learning, Neural and Statistical Classification](http://www.e-booksdirectory.com/details.php?ebook=1118) - D. Michie, D. J. Spiegelhalter
+* [Machine Learning. The Art of Science of Algorithms that Make Sense of Data](http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221/) - P. Flach (2012)
+* [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015)
+* [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006)
+* [Machine Learning in Action](https://www.manning.com/books/machine-learning-in-action) - Peter Harrington
+* [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free)
+* [R in Action](https://www.manning.com/books/r-in-action)
+* [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto
+* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html)
+* [Анализ больших наборов данных](http://dmkpress.com/catalog/computer/data/978-5-97060-190-7/) - перевод [Mining Massive Datasets](http://www.mmds.org/) - Jure Leskovec, Anand Rajaraman, Jeff Ullman
+* [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах
+* [Построение систем машинного обучения](https://vk.com/doc190970339_437111950) — Л. П. Коэльо, В. Ричарт (2016)
+* [Методы ансамблирования обучающихся алгоритмов](http://www.machinelearning.ru/wiki/images/5/56/Guschin2015Stacking.pdf) — диссертация А. Гущина
+* [An article a week – list of good articles on ML/AI/DL](https://github.com/shagunsodhani/papers-I-read)
+* [The most popular programming books ever mentioned on StackOverflow](https://medium.freecodecamp.com/eee0891f1786)
 ----------------------------------------------------
 
 ## Онлайн-курсы (MOOC)
