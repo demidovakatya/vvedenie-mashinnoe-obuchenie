@@ -48,7 +48,8 @@
 * Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov);
 * [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer;
 * [Tutorials on topics in machine learning](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mltut.htm);
-* [Data Mining in Action](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) course materials, Moscow Institute of Physics and Technologies.
+* [Data Mining in Action](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) course materials, Moscow Institute of Physics and Technologies;
+* [Постоянно обновляющаяся подборка ссылок по датасаенсу](https://docs.google.com/spreadsheets/d/1dXghGL0hH6gs3H9Km7zhOpk9MWufRJ_bSrFw0NLaRuo/edit#gid=0)
 
 ----------------------------------------------------
 
@@ -147,6 +148,8 @@
   * [Первый новостной канал про data science](https://telegram.me/opendatascience)
   * [Чат по большим данным, обработке и машинному обучению — Big Data & Machine Learning](https://telegram.me/bigdata_ru)
   * [Чат по теме Data Science — Data Science Chat](https://telegram.me/datasciencechat)
+  * [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4)
+  * [Чат канала Spark in me](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
 * [Сабреддиты по машинному обучению и смежным темам](/reddit.md)
 * [People tweeting about ML and AI](http://blog.talla.com/2016/02/people-tweeting-about-machine-learning-and-ai/)
 * [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs) + список:
