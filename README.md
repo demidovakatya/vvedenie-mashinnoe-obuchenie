@@ -150,6 +150,7 @@
   * [Чат по теме Data Science — Data Science Chat](https://telegram.me/datasciencechat)
   * [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4)
   * [Чат канала Spark in me](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
+  * [Канал с горячими постами с Reddit на DS тематику](https://t.me/datascientology)
 * [Сабреддиты по машинному обучению и смежным темам](/reddit.md)
 * [People tweeting about ML and AI](http://blog.talla.com/2016/02/people-tweeting-about-machine-learning-and-ai/)
 * [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs) + список:
