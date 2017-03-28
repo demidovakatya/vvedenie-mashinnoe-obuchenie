@@ -50,6 +50,7 @@
 * [Tutorials on topics in machine learning](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mltut.htm);
 * [Data Mining in Action](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) course materials, Moscow Institute of Physics and Technologies;
 * [Постоянно обновляющаяся подборка ссылок по датасаенсу](https://docs.google.com/spreadsheets/d/1dXghGL0hH6gs3H9Km7zhOpk9MWufRJ_bSrFw0NLaRuo/edit#gid=0)
+* [Distill — Latest articles about machine learning](http://distill.pub)
 
 ----------------------------------------------------
 
