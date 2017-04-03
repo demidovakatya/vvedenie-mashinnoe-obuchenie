@@ -51,6 +51,7 @@
 * [Data Mining in Action](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) course materials, Moscow Institute of Physics and Technologies;
 * [Постоянно обновляющаяся подборка ссылок по датасаенсу](https://docs.google.com/spreadsheets/d/1dXghGL0hH6gs3H9Km7zhOpk9MWufRJ_bSrFw0NLaRuo/edit#gid=0)
 * [Distill — Latest articles about machine learning](http://distill.pub)
+* [Teach yourself Machine Learning the hard way!](https://darshanhegde.wordpress.com/2014/08/19/learn-machine-learning-the-hard-way/)
 
 ----------------------------------------------------
 
@@ -152,7 +153,20 @@
   * [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4)
   * [Чат канала Spark in me](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
   * [Канал с горячими постами с Reddit на DS тематику](https://t.me/datascientology)
-* [Сабреддиты по машинному обучению и смежным темам](/reddit.md)
+* Сабреддиты по машинному обучению и смежным темам (рекомендую посмотреть как минимум топ за всё время + sidebar):
+    * [/r/bigdata](https://www.reddit.com/r/bigdata/)
+    * [/r/computervision](https://www.reddit.com/r/computervision/)
+    * [/r/datacleaning](https://www.reddit.com/r/datacleaning)
+    * [/r/datagangsta](https://www.reddit.com/r/datagangsta/)
+    * [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
+    * [/r/dataisugly](https://www.reddit.com/r/dataisugly)
+    * [/r/datascience](https://www.reddit.com/r/datascience/)
+    * [/r/datasets](https://www.reddit.com/r/datasets)
+    * [/r/learnpython](https://www.reddit.com/r/learnpython)
+    * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning)
+    * [/r/probabilitytheory](https://www.reddit.com/r/probabilitytheory)
+    * [/r/pystats](https://www.reddit.com/r/pystats)
+    * [/r/statistics](https://www.reddit.com/r/statistics)
 * [People tweeting about ML and AI](http://blog.talla.com/2016/02/people-tweeting-about-machine-learning-and-ai/)
 * [Блоги по датасаенс-тематике](https://github.com/rushter/data-science-blogs) + список:
   * [http://distill.pub/](http://distill.pub/)
