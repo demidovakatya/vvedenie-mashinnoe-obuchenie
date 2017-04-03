@@ -3,10 +3,10 @@
 #### Оглавление
 
 * [Библиотека ML-специалиста](#Библиотека-ml-специалиста) + выбор редакции:
-  * [Дополнительные материалы](/extra-course_materials.md) к курсу «Введение в машинное обучение»,
+  * [Дополнительные материалы](/extra-course_materials.md) к курсу «Введение в машинное обучение»
   * [Рекомендации](/spec-recommendations.md) от преподавателей [специализации «Машинное обучение и анализ данных»](https://github.com/demidovakatya/mashinnoye-obucheniye)
   * [Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)
-  * [Подборка научпоп-книг](https://bookmate.com/bookshelves/Nggk0rBi);
+  * [Подборка научпоп-книг](https://bookmate.com/bookshelves/Nggk0rBi)
 * По темам: 
   * [Статистика и теория вероятностей](/probability-statistics.md)
   * [Линейная алгебра](/linalg.md)
@@ -18,37 +18,37 @@
   * [R](/r.md)
   * [JavaScript-библиотеки для визуализации данных](/js-libraries.md)
   * [NLP](/nlp.md)
-* [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc);
+* [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc)
 * [Чаты/паблики/каналы про ML](#Social).
 
 [![header](/head.png)](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)
 
 ----------------------------------------------------
 
-* [Календарь соревнований по анализу данных](http://mltrainings.ru/?filter=active);
+* [Календарь соревнований по анализу данных](http://mltrainings.ru/?filter=active)
 * [Машинное обучение: вводная лекция](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf) – К. В. Воронцов;
 * [Математические методы обучения по прецедентам (теория обучения машин)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf) – К. В. Воронцов;
-* [Видеолекции курса «Машинное обучение»](https://yandexdataschool.ru/edu-process/courses/machine-learning), одного из основных курсов в Школе Анализа Данных Яндекса. Преподаватель — Константин Вячеславович Воронцов;
+* [Видеолекции курса «Машинное обучение»](https://yandexdataschool.ru/edu-process/courses/machine-learning), одного из основных курсов в Школе Анализа Данных Яндекса. Преподаватель — Константин Вячеславович Воронцов
 * [Репозиторий](https://github.com/esokolov/ml-course-msu) с конспектами, кодом и прочими материалами к семинарам по машинному обучению ВМК МГУ;
-* Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/);
+* Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 * [100+ Free Data Science Books](http://www.learndatasci.com/free-books/) – более 100 бесплатных книг по Data Science;
-* [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/) — ещё 16 бесплатных книг по ML;
-* [Free O'Reilly data science ebooks](http://www.oreilly.com/data/free/archive.html);
-* [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning);
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning);
-* [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course – this is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World;
-* [Доска](https://trello.com/b/rbpEfMld/data-science) по data science в Trello — проверенные материалы, организованные по темам (expertise tracks, языки программирования, различные инструменты);
-* [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf);
+* [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/) — ещё 16 бесплатных книг по ML
+* [Free O'Reilly data science ebooks](http://www.oreilly.com/data/free/archive.html)
+* [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course – this is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World
+* [Доска](https://trello.com/b/rbpEfMld/data-science) по data science в Trello — проверенные материалы, организованные по темам (expertise tracks, языки программирования, различные инструменты)
+* [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf)
 * [17 ресурсов по машинному обучению](http://tproger.ru/articles/free-programming-books/#machine-learning) от Типичного Программиста;
-* [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек (*toy data problem*) в Data Science;
+* [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек (*toy data problem*) в Data Science
 * [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
-* [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html) — огромный список вопросов для подготовки к интервью на позицию data scientist'а;
-* [Много книг по Natural Language Processing](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0);
-* [Список](/datasets.md) открытых источников данных, на которых можно найти бесплатные датасеты;
-* Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov);
-* [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer;
-* [Tutorials on topics in machine learning](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mltut.htm);
-* [Data Mining in Action](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) course materials, Moscow Institute of Physics and Technologies;
+* [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html) — огромный список вопросов для подготовки к интервью на позицию data scientist'а
+* [Много книг по Natural Language Processing](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0)
+* [Список](/datasets.md) открытых источников данных, на которых можно найти бесплатные датасеты
+* Очень подробный ответ на вопрос [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours/answer/Roman-Trusov)
+* [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer
+* [Tutorials on topics in machine learning](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mltut.htm)
+* [Data Mining in Action](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) course materials, Moscow Institute of Physics and Technologies
 * [Постоянно обновляющаяся подборка ссылок по датасаенсу](https://docs.google.com/spreadsheets/d/1dXghGL0hH6gs3H9Km7zhOpk9MWufRJ_bSrFw0NLaRuo/edit#gid=0)
 * [Distill — Latest articles about machine learning](http://distill.pub)
 * [Teach yourself Machine Learning the hard way!](https://darshanhegde.wordpress.com/2014/08/19/learn-machine-learning-the-hard-way/)
@@ -93,40 +93,40 @@
 
 ## Онлайн-курсы (MOOC)
 
-* [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses);
-* [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses);
+* [Перечень лучших курсов по практически любым областям математики](https://www.quora.com/What-are-the-best-online-college-level-mathematics-courses)
+* [Тонна разнообразных курсов по программированию, алгоритмам, в том числе 14 курсов по ML](https://github.com/prakhar1989/awesome-courses)
 * Coursera:
-  * [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению (осторожно, вместо стандартных Питона или R – Matlab/Octave);
-  * Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. У меня по этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye);
-  * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info) — очень доходчивый курс, подходит в качестве самого первого курса по ML;
-  * [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics/);
-  * [Calculus: Single Variable Part 1](https://www.coursera.org/learn/single-variable-calculus) от University of Pennsylvania;
-  * [Calculus One](https://www.coursera.org/learn/calculus1) от The Ohio State University;
-  * [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics) от МФТИ, ведёт Райгородский А.М.;
-  * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info), а также [на OpenEdu](https://openedu.ru/course/mipt/PROBTH/) — курс от МФТИ, ведёт Райгородский А.М.;
-  * [Линейная алгебра](https://www.coursera.org/course/linalg) от ВШЭ. Курс линейной алгебры для нематематических факультетов, подходит «для быстрого старта»;
-  * [Эконометрика](https://www.coursera.org/learn/ekonometrika/) (Econometrics) — 10-недельный курс от ВШЭ;
-  * [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics) – курс о практическом применении статистики и анализа данных. Для людей, разочаровавшихся в DS и не понимающих, на кой это всё;
-  * [Social Network Analysis](https://www.coursera.org/course/sna) от University of Michigan;
-  * [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline) от Stanford University;
-  * [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) – восьминедельный курс по рекомендательным системам от университета Миннесоты;
+  * [Machine Learning](https://www.coursera.org/learn/machine-learning) от Andrew Ng (Stanford University) – самый популярный курс по машинному обучению (осторожно, вместо стандартных Питона или R – Matlab/Octave)
+  * Специализация [Машинное обучение](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Яндекса. У меня по этой специализации есть аккуратный [:octocat: репозиторий](https://github.com/demidovakatya/mashinnoye-obucheniye)
+  * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/info) — очень доходчивый курс, подходит в качестве самого первого курса по ML
+  * [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics/)
+  * [Calculus: Single Variable Part 1](https://www.coursera.org/learn/single-variable-calculus) от University of Pennsylvania
+  * [Calculus One](https://www.coursera.org/learn/calculus1) от The Ohio State University
+  * [Современная комбинаторика](https://www.coursera.org/learn/modern-combinatorics) от МФТИ, ведёт Райгородский А.М.
+  * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics/home/info), а также [на OpenEdu](https://openedu.ru/course/mipt/PROBTH/) — курс от МФТИ, ведёт Райгородский А.М.
+  * [Линейная алгебра](https://www.coursera.org/course/linalg) от ВШЭ. Курс линейной алгебры для нематематических факультетов, подходит «для быстрого старта»
+  * [Эконометрика](https://www.coursera.org/learn/ekonometrika/) (Econometrics) — 10-недельный курс от ВШЭ
+  * [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics) – курс о практическом применении статистики и анализа данных. Для людей, разочаровавшихся в DS и не понимающих, на кой это всё
+  * [Social Network Analysis](https://www.coursera.org/course/sna) от University of Michigan
+  * [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline) от Stanford University
+  * [Introduction to Recommender Systems](https://www.coursera.org/learn/recommender-systems) – восьминедельный курс по рекомендательным системам от университета Миннесоты
   * Специализация [Machine Learning](https://www.coursera.org/specializations/machine-learning) от Washington University.
 * Udacity:
-  * [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009);
-  * [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002);
-  * [Intro to Machine Learning](https://www.udacity.com/courses/ud120) — this will teach you the end-to-end process of investigating data through a machine learning lens;
+  * [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+  * [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+  * [Intro to Machine Learning](https://www.udacity.com/courses/ud120) — this will teach you the end-to-end process of investigating data through a machine learning lens
   * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827) – подробный курс для новичков;
 * Edx:
-  * [Data Science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-spark#courses);
-  * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3);
-  * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1);
-  * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2);
-* [Learning from Data](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения);
-* [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses);
-* [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy;
-* Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке;
-* [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft;
-* [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению;
+  * [Data Science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-spark#courses)
+  * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
+  * [MITx: 6.041x Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1)
+  * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
+* [Learning from Data](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения)
+* [Видеозаписи лекций Школы Анализа Данных](https://yandexdataschool.ru/edu-process/courses)
+* [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy
+* Курс по статистике на [stepic.org](http://stepic.org) — качественное введение в статистику, целиком на русском языке
+* [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100) от Microsoft
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению
 * [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+Fall2016/about) - курс, основанный на книге Mining of Massive Datasets авторов Jure Leskovec, Anand Rajaraman, and Jeff Ullman (они же являются инструкторами этого курса).
 
 ----------------------------------------------------
@@ -162,8 +162,8 @@
     * [/r/dataisugly](https://www.reddit.com/r/dataisugly)
     * [/r/datascience](https://www.reddit.com/r/datascience/)
     * [/r/datasets](https://www.reddit.com/r/datasets)
-    * [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
-    * [/r/learnmachinelearning/](https://www.reddit.com/r/learnmachinelearning/)
+    * [/r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology/)
+    * [/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
     * [/r/learnpython](https://www.reddit.com/r/learnpython)
     * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning)
     * [/r/probabilitytheory](https://www.reddit.com/r/probabilitytheory)
