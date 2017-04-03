@@ -162,6 +162,8 @@
     * [/r/dataisugly](https://www.reddit.com/r/dataisugly)
     * [/r/datascience](https://www.reddit.com/r/datascience/)
     * [/r/datasets](https://www.reddit.com/r/datasets)
+    * [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
+    * [/r/learnmachinelearning/](https://www.reddit.com/r/learnmachinelearning/)
     * [/r/learnpython](https://www.reddit.com/r/learnpython)
     * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning)
     * [/r/probabilitytheory](https://www.reddit.com/r/probabilitytheory)
