@@ -5,7 +5,7 @@
 * [CS224N: Natural Language Processing with Deep Learning (Stanford, Winter 2017 videos)](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [Deep Natural Language Processing (Oxford, 2017)](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [A curated list of beginner resources in Natural Language Processing](https://github.com/gutfeeling/beginner_nlp)
-* [A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp)
+* [awesome-nlp – A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp)
 * [Introduction to Deep Learning for Natural Language Processing](https://github.com/rouseguy/europython2016_dl-nlp)
 * [Bag of Words Meets Bags of Popcorn – tutorial competition on Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 * [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp)
