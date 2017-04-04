@@ -9,3 +9,5 @@
 * [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) – tutorial competition on Kaggle
 * [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp)
 * [Stanford's live demo for predicting the sentiment of movie reviews](http://nlp.stanford.edu/sentiment/)
+* [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
+* [Samsung Natural Language Processing Pipeline (basically for Russian language): morphology, dependency parser and much more](https://github.com/zy4kamu/Coda)
