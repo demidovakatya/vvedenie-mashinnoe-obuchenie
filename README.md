@@ -40,7 +40,7 @@
 * [17 ресурсов по машинному обучению  от Типичного Программиста](http://tproger.ru/articles/free-programming-books/#machine-learning)
 * [51 toy data problem in Data Science](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) 
 * [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) 
-* [:octocat: Dive into Machine Learning repo on github](https://github.com/hangtwenty/dive-into-machine-learning))
+  * [:octocat: Dive into Machine Learning repo on github](https://github.com/hangtwenty/dive-into-machine-learning)
 * [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html) — огромный список вопросов для подготовки к интервью на позицию data scientist'а
 * [Много книг по Natural Language Processing](https://www.dropbox.com/sh/b1c2ulwua9zy574/AACswS1E0IB9LdPDxQ6fexm4a?dl=0)
 * [Список открытых источников данных, на которых можно найти бесплатные датасеты](/datasets.md)
