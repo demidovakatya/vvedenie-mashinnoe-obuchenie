@@ -113,10 +113,10 @@
   * [Recommender Systems Specialization (University of Minnesota)](https://www.coursera.org/specializations/recommender-systems)
   * [Build Intelligent Applications Specialization (University of Washington)](https://www.coursera.org/specializations/machine-learning).
 * Udacity:
-  * [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
-  * [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
-  * [Intro to Machine Learning](https://www.udacity.com/courses/ud120) — this will teach you the end-to-end process of investigating data through a machine learning lens
-  * [Intro to Descriptive Statistics](https://www.udacity.com/courses/ud827)
+  * [Machine Learning Engineer Nanodegree (co-created by Kaggle)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+  * [Data Analyst Nanodegree (co-created by Facebook & MongoDB)](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+  * [Artificial Intelligence Nanodegree (co-created by IBM Watson & Amazon Alexa)](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)
+  * [Predictive Analytics for Business Nanodegree (co-created by Tableau & Alteryx)](https://www.udacity.com/degrees/predictive-analytics-for-business--nd008)
 * Edx:
   * [Data Science and Engineering with Spark (Berkeley)](https://www.edx.org/xseries/data-science-engineering-spark)
   * [6.002x: Introduction to Computational Thinking and Data Science (MIT)](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)
