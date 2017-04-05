@@ -18,6 +18,7 @@
   * [R](/r.md)
   * [JavaScript-библиотеки для визуализации данных](/js-libraries.md)
   * [NLP](/nlp.md)
+  * [Big Data](/big-data.md)
 * [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc)
 * [Чаты/паблики/каналы про ML](#Social).
 
