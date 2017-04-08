@@ -7,6 +7,8 @@
 * [awesome-public-datasets – an awesome list of high-quality open datasets in public domains (on-going)](https://github.com/caesar0301/awesome-public-datasets)
 * [Реестр наборов открытых данных на data.gov.ru](http://data.gov.ru/opendata)
 * [Большой перечень больших по размеру публичных датасетов](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+* [An awesome list of high-quality datasets from the Webhose.io repositories](https://webhose.io/datasets)
+* [IEEE Dataport datasets](https://ieee-dataport.org/documents)
 
 ## Музыка
 
