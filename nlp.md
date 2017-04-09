@@ -12,3 +12,5 @@
 * [Stanford's live demo for predicting the sentiment of movie reviews](http://nlp.stanford.edu/sentiment/)
 * [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
 * [Samsung Natural Language Processing Pipeline (basically for Russian language): morphology, dependency parser and much more](https://github.com/zy4kamu/Coda)
+* [Journal of Interesting Negative Results in Natural Language Processing and Machine Learning](http://jinr.site.uottawa.ca)
+* [Where to get a pretrained model for word2vec](https://github.com/3Top/word2vec-api#where-to-get-a-pretrained-models)
