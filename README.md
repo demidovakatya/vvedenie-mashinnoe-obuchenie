@@ -15,7 +15,6 @@
   * [Python, IPython, Scikit-learn etc](/python.md)
   * [LaTeX](/latex.md)
   * [R](/r.md)
-  * [JavaScript-библиотеки для визуализации данных](/js-libraries.md)
   * [NLP](/nlp.md)
   * [Big Data](/big-data.md)
 * [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc)
