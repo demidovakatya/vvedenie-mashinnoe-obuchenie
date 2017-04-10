@@ -1,5 +1,7 @@
 # Машинное обучение
 
+Постоянно обновляемая подборка ресурсов по машинному обучению.
+
 #### Оглавление
 
 * [Библиотека ML-специалиста](#Библиотека-ml-специалиста) + выбор редакции:
@@ -8,15 +10,16 @@
   * [Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)
   * [Подборка научпоп-книг](https://bookmate.com/bookshelves/Nggk0rBi)
 * По темам: 
-  * [Статистика и теория вероятностей](/probability-statistics.md)
-  * [Линейная алгебра](/linalg.md)
-  * [Алгоритмы](/algorithms.md)
-  * [Нейронные сети, Deep learning](/neural-nets.md)
-  * [Python, IPython, Scikit-learn etc](/python.md)
-  * [LaTeX](/latex.md)
-  * [R](/r.md)
-  * [NLP](/nlp.md)
   * [Big Data](/big-data.md)
+  * [Dataviz](/dataviz.md)
+  * [LaTeX](/latex.md)
+  * [NLP](/nlp.md)
+  * [Python, IPython, Scikit-learn etc](/python.md)
+  * [R](/r.md)
+  * [Алгоритмы](/algorithms.md)
+  * [Линейная алгебра](/linalg.md)
+  * [Нейронные сети, Deep learning](/neural-nets.md)
+  * [Статистика и теория вероятностей](/probability-statistics.md)
 * [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc)
 * [Чаты/паблики/каналы про ML](#Social).
 
@@ -25,7 +28,6 @@
 * [Календарь соревнований по анализу данных](http://mltrainings.ru/?filter=active)
 * [Машинное обучение: вводная лекция](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf) – К. В. Воронцов
 * [Lecture notes and code for Machine Learning practical course on CMC MSU](https://github.com/esokolov/ml-course-msu)
-* [A List of Machine Learning Books on reddit](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 * [100+ Free Data Science Books](http://www.learndatasci.com/free-books/) – более 100 бесплатных книг по Data Science
 * [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/) — ещё 16 бесплатных книг по ML
 * [Free O'Reilly data science ebooks](http://www.oreilly.com/data/free/archive.html)
@@ -169,6 +171,7 @@
     * [/r/dataisugly](https://www.reddit.com/r/dataisugly)
     * [/r/datascience](https://www.reddit.com/r/datascience/)
     * [/r/datasets](https://www.reddit.com/r/datasets)
+    * [/r/dataviz](https://www.reddit.com/r/dataviz)
     * [/r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology/)
     * [/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
     * [/r/learnpython](https://www.reddit.com/r/learnpython)
