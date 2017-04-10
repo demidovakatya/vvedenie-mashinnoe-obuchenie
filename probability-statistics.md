@@ -1,4 +1,4 @@
-# Теория вероятностей и статистик
+# Теория вероятностей и статистика
 
 * [All of Statistics](http://www.ucl.ac.uk/~rmjbale/Stat/wasserman2.pdf) – Larry Wasserman (pdf)
 * [Basic Probability Theory](http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf) – Robert Ash (pdf)

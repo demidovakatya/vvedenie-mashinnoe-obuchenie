@@ -1,4 +1,5 @@
-# 
+# R
+ 
 * [R in Action](https://www.manning.com/books/r-in-action)
 * [Basic Statistics](https://www.coursera.org/learn/basic-statistics)
 * [Анализ данных на R в примерах и задачах (Computer Science Center, videos)](http://www.youtube.com/playlist?list=PLlb7e2G7aSpSSa_PlFEwnd6-3gzAa08_m)
