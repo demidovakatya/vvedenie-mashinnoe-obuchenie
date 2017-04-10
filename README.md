@@ -13,7 +13,6 @@
   * [Алгоритмы](/algorithms.md)
   * [Нейронные сети, Deep learning](/neural-nets.md)
   * [Python, IPython, Scikit-learn etc](/python.md)
-  * [Code editors](/code-editors.md)
   * [LaTeX](/latex.md)
   * [R](/r.md)
   * [JavaScript-библиотеки для визуализации данных](/js-libraries.md)
