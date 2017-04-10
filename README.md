@@ -131,7 +131,8 @@
 * [Основы статистики](https://stepic.org/course/76) — качественное введение в статистику, целиком на русском языке
 * [Data Science and Machine Learning Essentials (Microsoft)](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100)
 * [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford University)](http://vision.stanford.edu/teaching/cs231n/) ([:octocat: repo on github](https://github.com/cs231n)) — отличный десятинедельный курс по нейросетям и компьютерному зрению
-* [Mining Massive Datasets (Stanford University)](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+Fall2016/about) - курс, основанный на книге Mining of Massive Datasets авторов Jure Leskovec, Anand Rajaraman, and Jeff Ullman (они же являются инструкторами этого курса).
+* [Mining Massive Datasets (Stanford University)](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+Fall2016/about) - курс, основанный на книге Mining of Massive Datasets авторов Jure Leskovec, Anand Rajaraman, and Jeff Ullman (они же являются инструкторами этого курса)
+* [CS109: Data Science (Harvard University)](http://cs109.github.io/2015/)
 
 ----------------------------------------------------
 
