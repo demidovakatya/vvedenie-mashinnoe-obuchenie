@@ -2,6 +2,7 @@
 
 * [All of Statistics](http://www.ucl.ac.uk/~rmjbale/Stat/wasserman2.pdf) – Larry Wasserman (pdf)
 * [Basic Probability Theory](http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf) – Robert Ash (pdf)
+* [A Concrete Introduction to Probability – Code and examples of the basic principles of Probability Theory](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.e-booksdirectory.com/details.php?ebook=3267) - T. Hastie, R. Tibshirani, J. Friedman
 * [Introduction to probability](http://math.dartmouth.edu/~prob/prob/prob.pdf) – Grinstead and Snell (pdf)
 * [Introduction to statistical thought](https://www.math.umass.edu/%7Elavine/Book/book.pdf) – Lavine (pdf)
