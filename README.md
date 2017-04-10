@@ -20,8 +20,6 @@
 * [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc)
 * [Чаты/паблики/каналы про ML](#Social).
 
-[![header](/head.png)](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/)
-
 ----------------------------------------------------
 
 * [Календарь соревнований по анализу данных](http://mltrainings.ru/?filter=active)
