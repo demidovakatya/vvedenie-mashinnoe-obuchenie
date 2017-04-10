@@ -1,6 +1,12 @@
 # Теория вероятностей и статистик
+
+* [All of Statistics](http://www.ucl.ac.uk/~rmjbale/Stat/wasserman2.pdf) – Larry Wasserman (pdf)
+* [Basic Probability Theory](http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf) – Robert Ash (pdf)
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.e-booksdirectory.com/details.php?ebook=3267) - T. Hastie, R. Tibshirani, J. Friedman
+* [Introduction to probability](http://math.dartmouth.edu/~prob/prob/prob.pdf) – Grinstead and Snell (pdf)
+* [Introduction to statistical thought](https://www.math.umass.edu/%7Elavine/Book/book.pdf) – Lavine (pdf)
 * [Openintro Statistics 3](https://www.openintro.org/stat/textbook.php) (free)
+* [Principle of Uncertainty](http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf) – Kadane (pdf)
 * [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/sibguti/tv-sibguti.pdf) – Чернова Н.И. (СибГУТИ, 2009)
 * [Теория вероятностей](http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf) – Чернова Н.И. (НГУ, 2007)
 * [Математическая статистика](http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu14.pdf) – Чернова Н.И. (НГУ, 2014)
@@ -23,5 +29,5 @@
 * [An Introduction to Statistical learning](http://www-bcf.usc.edu/~gareth/ISL/) – Gareth James, D. Witten et. al
 * [Machine Learning: A Probabilistic Perspective](https://vk.com/doc-44016343_199213512?hash=2ad697dae93b3fea0e&dl=4fa59572a2f58a3219)
 * [Statistics 110: Probability (Joseph K. Blitzstein, Harvard)](http://projects.iq.harvard.edu/stat110)
-* [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers) — презентация о том, как можно использовать coding skills to "hack statistics"
+* [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 * [Визуализация разных понятий из теории вероятности](http://students.brown.edu/seeing-theory/)

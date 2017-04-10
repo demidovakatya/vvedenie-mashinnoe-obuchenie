@@ -1,4 +1,4 @@
-# Введение в машинное обучение
+# Машинное обучение
 
 #### Оглавление
 
@@ -24,13 +24,13 @@
 
 * [Календарь соревнований по анализу данных](http://mltrainings.ru/?filter=active)
 * [Машинное обучение: вводная лекция](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf) – К. В. Воронцов
-* [Репозиторий](https://github.com/esokolov/ml-course-msu) с конспектами, кодом и прочими материалами к семинарам по машинному обучению ВМК МГУ
-* Пост на reddit: [Machine Learning Books](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
+* [Lecture notes and code for Machine Learning practical course on CMC MSU](https://github.com/esokolov/ml-course-msu)
+* [A List of Machine Learning Books on reddit](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 * [100+ Free Data Science Books](http://www.learndatasci.com/free-books/) – более 100 бесплатных книг по Data Science
 * [16 Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/) — ещё 16 бесплатных книг по ML
 * [Free O'Reilly data science ebooks](http://www.oreilly.com/data/free/archive.html)
 * [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-machine-learning — A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
 * [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course – this is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World
 * [Доска по data science в Trello — проверенные материалы, организованные по темам (expertise tracks, языки программирования, различные инструменты)](https://trello.com/b/rbpEfMld/data-science)
 * [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf)
@@ -54,6 +54,7 @@
 ## Библиотека ML-специалиста
 
 * [A Course in Machine Learning](http://ciml.info) - Hal Daumé III
+* [A Probabilistic Theory of Pattern Recognition](http://www.szit.bme.hu/%7Egyorfi/pbook.pdf) – Devroye, Gyorfi, Lugosi (pdf)
 * [Applied Predictive Modeling](http://www.springer.com/us/book/9781461468486) – M. Kuhn, K. Johnson (2013)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf) - D.Barber (2015) (pdf)
 * [Core Concepts in Data Analysis: Summarization, Correlation and Visualization](http://www.springer.com/us/book/9780857292865) - Boris Mirkin
@@ -61,12 +62,15 @@
 * [Data Mining: Concepts and Techniques](http://www.sciencedirect.com/science/book/9780123814791) - Jiawei Han et. al.
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015)
 * [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
+* [Elements of Statistical Learning] (http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf) – Hastie, Tibshirani, Friedman (pdf)
 * [Foundations of Machine Learning](http://www.cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2012)
 * [Frequent Pattern Mining](http://www.charuaggarwal.net/freqbook.pdf) - Charu C Aggarwal, Jiawei Han (eds.) (pdf)
-* [Gaussian Processes for Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1774) - Carl E. Rasmugit lssen, Christopher K. I. Williams
+* [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW.pdf) - Carl E. Rasmugit lssen, Christopher K. I. Williams (pdf)
 * [Inductive Logic Programming: Techniques and Applications](http://www.e-booksdirectory.com/details.php?ebook=1105) - Nada Lavrac, Saso Dzeroski
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/book.html) – David MacKay
+* [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf) – Manning, Rhagavan, Shutze (pdf)
 * [Introduction To Machine Learning](http://www.e-booksdirectory.com/details.php?ebook=1117) - Nils J Nilsson (1997)
+* [Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf) – Smola and Vishwanathan (pdf)
 * [Machine learning cheat sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - soulmachine (2015) (pdf)
 * [Machine Learning in Action](https://www.manning.com/books/machine-learning-in-action) - Peter Harrington
 * [Machine Learning, Neural and Statistical Classification](http://www.e-booksdirectory.com/details.php?ebook=1118) - D. Michie, D. J. Spiegelhalter
