@@ -18,5 +18,5 @@
     * [Flot – a pure JavaScript plotting library for jQuery](http://www.flotcharts.org/)
     * [PlotKit – a Chart and Graph Plotting Library for Javascript](http://www.liquidx.net/plotkit/)
     * [Raphaël.js](http://dmitrybaranovskiy.github.io/raphael/)
-
-
+* **Inspiration:** 
+    * [Max Woolf's Data Portfolio](http://minimaxir.com/data-portfolio/)
