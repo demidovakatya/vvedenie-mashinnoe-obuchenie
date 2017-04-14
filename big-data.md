@@ -1,5 +1,6 @@
 # Big Data
 
+* [2017 Big Data Landscape](http://mattturck.com/wp-content/uploads/2017/04/Big-Data-Landscape-2017-Matt-Turck-FirstMark.png)
 * [Intro to Hadoop and MapReduce by Cloudera](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 * [Hadoop. Система для обработки больших объемов данных](https://stepik.org/150)
 * [Data Science and Engineering with Spark (Berkeley)](https://www.edx.org/xseries/data-science-engineering-spark):
