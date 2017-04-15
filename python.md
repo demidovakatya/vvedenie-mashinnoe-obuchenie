@@ -23,6 +23,7 @@
 * [Notebooks and code for the book "Introduction to Machine Learning with Python"](https://github.com/amueller/introduction_to_ml_with_python)
 * [The python-machine-learning-book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 * [pandas-exercises](https://github.com/guipsamora/pandas_exercises/)
+* [py_ml_utils – small utility modules to help with pandas, numpy and sklearn usage in other projects](https://github.com/gatapia/py_ml_utils)
 * [python_reference – Useful functions, tutorials, and other Python-related things](https://github.com/rasbt/python_reference)
 * [Pythonpedia – энциклопедия ресурсов по программированию на Python](https://pythonpedia.com/)
 * [Scipy lecture notes — tutorials on the scientific Python ecosystem](http://www.scipy-lectures.org/index.html)
