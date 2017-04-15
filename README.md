@@ -129,6 +129,7 @@
 * [Видеозаписи лекций Школы Анализа Данных (ШАД)](https://yandexdataschool.ru/edu-process/courses)
   * [Видеолекции курса «Машинное обучение» (К. В. Воронцов, ШАД)](https://yandexdataschool.ru/edu-process/courses/machine-learning)
 * [Data Mining in Action course materials (МФТИ/MIPT)](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) 
+* [Открытый курс OpenDataScience по машинному обучению](https://github.com/Yorko/mlcourse_open)
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) – основы Python и немного про NumPy
 * [Основы статистики](https://stepic.org/course/76) — качественное введение в статистику, целиком на русском языке
 * [Data Science and Machine Learning Essentials (Microsoft)](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100)
