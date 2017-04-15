@@ -50,7 +50,7 @@
 * [Teach yourself Machine Learning the hard way!](https://darshanhegde.wordpress.com/2014/08/19/learn-machine-learning-the-hard-way/)
 * [An article a week – list of good articles on ML/AI/DL](https://github.com/shagunsodhani/papers-I-read)
 * [The most popular programming books ever mentioned on StackOverflow](https://medium.freecodecamp.com/eee0891f1786)
-
+  
 ----------------------------------------------------
 
 ## Библиотека ML-специалиста
@@ -82,6 +82,7 @@
 * [Mining Massive Datasets](http://www.mmds.org/) - Jure Leskovec, Anand Rajaraman, Jeff Ullman
 * [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/) - C.M.Bishop (2006)
 * [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (free)
+* [A Programmer's Guide to Data Mining – Ron Zacharski](http://guidetodatamining.com/assets/guideChapters/Guide2DataMining.pdf) (pdf)
 * [R in Action](https://www.manning.com/books/r-in-action)
 * [Reinforcement Learning: An Introduction](http://www.e-booksdirectory.com/details.php?ebook=1825) - Richard S. Sutton, Andrew G. Barto
 * [The LION Way Machine Learning plus Intelligent Optimization](http://1.oito.eu/The-LION-Way-Machine-Learning-plus-Intelligent-Optimization.pdf) (pdf)
