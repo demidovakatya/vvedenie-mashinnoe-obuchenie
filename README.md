@@ -50,6 +50,7 @@
 * [Teach yourself Machine Learning the hard way!](https://darshanhegde.wordpress.com/2014/08/19/learn-machine-learning-the-hard-way/)
 * [An article a week – list of good articles on ML/AI/DL](https://github.com/shagunsodhani/papers-I-read)
 * [The most popular programming books ever mentioned on StackOverflow](https://medium.freecodecamp.com/eee0891f1786)
+* [Cookiecutter Data Science – A logical, reasonably standardized, but flexible project structure for doing and sharing data science work](http://drivendata.github.io/cookiecutter-data-science/)
   
 ----------------------------------------------------
 
