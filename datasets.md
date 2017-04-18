@@ -9,6 +9,7 @@
 * [Большой перечень больших по размеру публичных датасетов](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 * [An awesome list of high-quality datasets from the Webhose.io repositories](https://webhose.io/datasets)
 * [IEEE Dataport datasets](https://ieee-dataport.org/documents)
+* [Wolfram Data Drop: Universal Data Accumulator](https://datadrop.wolframcloud.com/)
 
 ## Музыка
 
