@@ -51,6 +51,7 @@
 * [An article a week – list of good articles on ML/AI/DL](https://github.com/shagunsodhani/papers-I-read)
 * [The most popular programming books ever mentioned on StackOverflow](https://medium.freecodecamp.com/eee0891f1786)
 * [Cookiecutter Data Science – A logical, reasonably standardized, but flexible project structure for doing and sharing data science work](http://drivendata.github.io/cookiecutter-data-science/)
+* [awesome-datascience-ideas - A list of awesome and proven data science use cases and applications](https://github.com/JosPolfliet/awesome-datascience-ideas/blob/master/README.md)
   
 ----------------------------------------------------
 
