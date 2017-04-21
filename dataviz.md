@@ -3,6 +3,8 @@
 * [awesome-dataviz – A curated list of awesome data visualization libraries and resources](https://github.com/fasouto/awesome-dataviz)
 * [Gephi – an open-source platform for visualizing and manipulating large graphs](https://github.com/gephi/gephi)
 * [Introduction to Data Visualization: Visualization Types](http://guides.library.duke.edu/datavis/vis_types)
+* [Top Data Visualization Books](https://infogr.am/blog/data-visualization-books/)
+* [Explore trends in data visualization libraries](https://www.datascience.com/trends/data-visualization?trends=5,1,6&trend_names=matplotlib+plotly+ggplot&avg=21&scaling=absolute&metric=New%20Files)
 * Python:
     * [matplotlib](http://matplotlib.org)
     * [Seaborn: statistical data visualization](http://seaborn.pydata.org)
