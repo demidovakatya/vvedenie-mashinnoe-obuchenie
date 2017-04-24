@@ -24,8 +24,10 @@
 * [awesome-deep-vision – a curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision)
 * [awesome-deep-learning-papers – a curated list of the most cited deep learning papers (since 2010)](https://github.com/terryum/awesome-deep-learning-papers)
 * [Deep Learning Tutorials](https://github.com/subokita/DeepLearningTutorials)
-* [dl-docker – an all-in-one Docker image for deep learning (Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.))](https://github.com/saiprashanths/dl-docker). 
-* [Self-Study Courses for Deep Learning (by NVIDIA)](https://developer.nvidia.com/deep-learning-courses) — self-paced classes for deep learning that feature interactive lectures, hands-on exercises, and recordings of the office hours Q&A with instructors. You’ll learn everything you need to design, train, and integrate neural network-powered artificial intelligence into your applications with widely used open-source frameworks and NVIDIA software. During the hands-on exercises, you will use GPUs and deep learning software in the cloud
+* [dl-docker – an all-in-one Docker image for deep learning (Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.))](https://github.com/saiprashanths/dl-docker)
+* Материалы от NVIDIA:
+    * [Self-Study Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
+    * [Online Self-Paced Labs](https://developer.nvidia.com/dli/onlinelabs)
 * [deep-rl-tensorflow – TensorFlow implementation of Deep Reinforcement Learning papers](https://github.com/carpedm20/deep-rl-tensorflow)
 * [TensorFlow 101 – Tensorflow tutorials](https://github.com/sjchoi86/Tensorflow-101)
 * [Introduction to Deep Learning for Image Recognition](https://github.com/rouseguy/scipyUS2016_dl-image) – this notebook accompanies the Introduction to Deep Learning for Image Recognition workshop to explain the core concepts of deep learning with emphasis on classifying images as the application
