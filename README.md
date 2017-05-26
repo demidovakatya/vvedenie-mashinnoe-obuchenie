@@ -154,6 +154,7 @@
   * [Deep Learning](https://vk.com/deeplearning)
   * [Data Mining Labs](https://vk.com/datamininglabs)
   * [DeepLearning (Глубокие нейронные сети)](https://vk.com/deeplearning_ru)
+  * [Томская группа по машинному обучению](https://vk.com/tomskml), [slack](https://tomskml.slack.com/), [slack форма регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdYpgm7T80JpyBPt6NMgRP_4jne7v_qaGFjy8wDrS4fNajMDA/viewform?c=0&w=1)
   * [Мемы про машинное обучение для взрослых мужиков](https://vk.com/weirdkerneltricks)
 * В телеграме:
   * [Канал сообщества DeepLearning](https://t.me/deeplearning_ru)
