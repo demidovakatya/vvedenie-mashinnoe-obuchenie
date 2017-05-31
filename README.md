@@ -66,7 +66,7 @@
 * [Data Mining: Concepts and Techniques](http://www.sciencedirect.com/science/book/9780123814791) - Jiawei Han et. al.
 * [Data Science For Dummies](https://www.geekbooks.me/book/view/data-science-for-dummies) – Lillian Pierson (2015)
 * [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
-* [Elements of Statistical Learning] (http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf) – Hastie, Tibshirani, Friedman (pdf)
+* [Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf) – Hastie, Tibshirani, Friedman (pdf)
 * [Foundations of Machine Learning](http://www.cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar (2012)
 * [Frequent Pattern Mining](http://www.charuaggarwal.net/freqbook.pdf) - Charu C Aggarwal, Jiawei Han (eds.) (pdf)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW.pdf) - Carl E. Rasmugit lssen, Christopher K. I. Williams (pdf)
