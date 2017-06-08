@@ -36,6 +36,7 @@
 * [Туториал по Matplotlib](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
 * [Очень большой список интересных питоновских ноутбуков (от туториалов на три минуты, до целых книг (!) в таком формате)](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
 * [Data Munging in Python (using Pandas)](http://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/)
+* [Семинары по программированию на Python для 3 курса Школы Лингвистики НИУ ВШЭ](https://github.com/elmiram/2017learnpython)
 
 ## Code editors
 
