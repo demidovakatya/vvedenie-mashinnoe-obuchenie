@@ -150,6 +150,9 @@
 * [Open Data Science](http://ods.ais)
 * [Посвященная московским ML-тренировкам группа в facebook](https://www.facebook.com/groups/1413405125598651/)
 * [и группа вконтакте про тренировки по машинному обучению](https://vk.com/mltrainings)
+* [Томская группа по машинному обучению](https://vk.com/tomskml)
+* [Slack Томской группы по ML](https://tomskml.slack.com/)
+  * [форма регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdYpgm7T80JpyBPt6NMgRP_4jne7v_qaGFjy8wDrS4fNajMDA/viewform?c=0&w=1)
 * Паблики/группы вконтакте:
   * [Data Science](https://vk.com/datascience)
   * [Deep Learning](https://vk.com/deeplearning)
