@@ -52,6 +52,7 @@
 * [The most popular programming books ever mentioned on StackOverflow](https://medium.freecodecamp.com/eee0891f1786)
 * [Cookiecutter Data Science – A logical, reasonably standardized, but flexible project structure for doing and sharing data science work](http://drivendata.github.io/cookiecutter-data-science/)
 * [awesome-datascience-ideas - A list of awesome and proven data science use cases and applications](https://github.com/JosPolfliet/awesome-datascience-ideas/blob/master/README.md)
+* [machine-learning-surveys - A curated list of Machine Learning Surveys, Tutorials and Books](https://github.com/metrofun/machine-learning-surveys)
   
 ----------------------------------------------------
 
