@@ -8,3 +8,5 @@
     * [CS110x: Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
     * [CS120x: Distributed Machine Learning with Apache Spark](https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x)
 * [Методы и системы обработки больших данных](https://www.youtube.com/playlist?list=PL-_cKNuVAYAVJJRItmIfqft4HtAmaNgB4)
+* [Big Data: Measuring and Predicting Human Behaviour](https://www.futurelearn.com/courses/big-data/)
+
