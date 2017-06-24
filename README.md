@@ -6,7 +6,7 @@
 
 * [Библиотека ML-специалиста](#Библиотека-ml-специалиста) + выбор редакции:
   * [Дополнительные материалы](https://gist.github.com/demidovakatya/cef3d462bcf56b84f56950ea490a9e8e) к курсу «Введение в машинное обучение»
-  * [Рекомендации](https://gist.github.com/demidovakatya/61e15717a9eefae0bd237b7fd959d166) от преподавателей [специализации «Машинное обучение и анализ данных»](https://github.com/demidovakatya/mashinnoye-obucheniye)
+  * [Рекомендации](https://gist.github.com/demidovakatya/61e15717a9eefae0bd237b7fd959d166) от преподавателей специализации «Машинное обучение и анализ данных»
   * [Литература для поступления в ШАД](https://gist.github.com/demidovakatya/873e4dd6f1c6652ac842)
   * [Подборка научпоп-книг](https://bookmate.com/bookshelves/Nggk0rBi)
 * По темам: 
@@ -21,7 +21,7 @@
   * [Нейронные сети, Deep learning](/neural-nets.md)
   * [Статистика и теория вероятностей](/probability-statistics.md)
 * [Онлайн-курсы (MOOC)](#Онлайн-курсы-mooc)
-* [Чаты/паблики/каналы про ML](#Social).
+* [Чаты/паблики/каналы про ML](#social)
 
 ----------------------------------------------------
 
