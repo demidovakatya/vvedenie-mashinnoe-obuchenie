@@ -184,6 +184,7 @@
     * [/r/datascience](https://www.reddit.com/r/datascience)
     * [/r/datasets](https://www.reddit.com/r/datasets)
     * [/r/dataviz](https://www.reddit.com/r/dataviz)
+    * [/r/JupyterNotebooks](https://www.reddit.com/r/JupyterNotebooks)
     * [/r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology)
     * [/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning)
     * [/r/learnpython](https://www.reddit.com/r/learnpython)
