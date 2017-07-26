@@ -215,3 +215,6 @@
   * [blog.paralleldots.com](http://blog.paralleldots.com)
   * [alexanderdyakonov.wordpress.com](https://alexanderdyakonov.wordpress.com/feed/)
 
+---
+## Tools
+ * [Pre-configured Virtual Machine for deep learning](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b) 
