@@ -26,6 +26,7 @@
 * [Deep Learning Papers by task](https://github.com/sbrugman/deep-learning-papers)
 * [Deep Learning Tutorials](https://github.com/subokita/DeepLearningTutorials)
 * [dl-docker – an all-in-one Docker image for deep learning (Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.))](https://github.com/saiprashanths/dl-docker)
+* [FloydHub – a Platform-as-a-Service for training and deploying your deep learning models in the cloud (Heroku for DL)](https://www.floydhub.com/)
 * Материалы от NVIDIA:
     * [Self-Study Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
     * [Online Self-Paced Labs](https://developer.nvidia.com/dli/onlinelabs)
