@@ -149,7 +149,7 @@
 
 Обсуждение машинного обучения в мессенджерах (группы, каналы, чаты, сообщества).
 
-* [Open Data Science](http://ods.ais)
+* [Open Data Science](http://ods.ai)
 * [Посвященная московским ML-тренировкам группа в facebook](https://www.facebook.com/groups/1413405125598651/)
 * [и группа вконтакте про тренировки по машинному обучению](https://vk.com/mltrainings)
 * [Томская группа по машинному обучению](https://vk.com/tomskml)
