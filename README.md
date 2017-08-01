@@ -108,6 +108,7 @@
   * Специализация [Машинное обучение и Анализ данных (Яндекс + МФТИ/MIPT)](https://www.coursera.org/specializations/mashinnoye-obucheniye) 
     * :octocat: [мой репозиторий по этой специализации](https://github.com/demidovakatya/mashinnoye-obucheniye)
   * [Machine Learning Foundations: A Case Study Approach (University of Washington)](https://www.coursera.org/learn/ml-foundations/)
+  * [Data Mining Specialization](https://www.coursera.org/specializations/data-mining)
   * [Data Science at Scale Specialization (University of Washington)](https://www.coursera.org/specializations/data-science)
   * [Calculus: Single Variable Part 1 (University of Pennsylvania)](https://www.coursera.org/learn/single-variable-calculus)
   * [Calculus One (The Ohio State University)](https://www.coursera.org/learn/calculus1) 
