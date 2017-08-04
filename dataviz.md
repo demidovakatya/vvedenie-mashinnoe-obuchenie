@@ -12,6 +12,7 @@
         * [Data Visualization with Seaborn (by O'Reilly)](https://www.oreilly.com/learning/data-visualization-with-seaborn)
     * [Plotly's Python graphing library for interactive graphs online](https://plot.ly/python/)
     * [Bokeh – an interactive visualization library that targets modern web browsers for presentation](http://bokeh.pydata.org/en/latest/)
+    * [Pythonplot – Python Plotting for Exploratory Data Analysis](http://pythonplot.com/)
 * R:
     * [ggplot2](http://docs.ggplot2.org/)
         * ggplot2: Elegant Graphics for Data Analysis – Hadley Wickham (2009)
