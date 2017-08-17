@@ -120,7 +120,8 @@
   * [Social Network Analysis (University of Michigan)](https://www.coursera.org/course/sna)
   * [Social and Economic Networks: Models and Analysis (Stanford University)](https://www.coursera.org/course/networksonline)
   * [Recommender Systems Specialization (University of Minnesota)](https://www.coursera.org/specializations/recommender-systems)
-  * [Build Intelligent Applications Specialization (University of Washington)](https://www.coursera.org/specializations/machine-learning).
+  * [Build Intelligent Applications Specialization (University of Washington)](https://www.coursera.org/specializations/machine-learning)
+  * [Программирование на Python (МФТИ/MIPT)](https://www.coursera.org/learn/programming-in-python/home/welcome)
 * Udacity:
   * [Machine Learning Engineer Nanodegree (co-created by Kaggle)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
   * [Data Analyst Nanodegree (co-created by Facebook & MongoDB)](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
