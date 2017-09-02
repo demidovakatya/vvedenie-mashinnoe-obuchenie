@@ -93,7 +93,7 @@
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/copy.html)
 * [Анализ больших наборов данных](http://dmkpress.com/catalog/computer/data/978-5-97060-190-7/) - перевод Mining Massive Datasets
 * [Математические методы обучения по прецедентам (теория обучения машин)](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf) – К. В. Воронцов (pdf)
-* [Машинное обучение](https://www.dropbox.com/s/wkmoxtq0egzcoxc/Flach_P_Machine_Learning_RU.pdf) — Петер Флах (pdf)
+* [Машинное обучение](https://www.pdf-archive.com/2017/09/02/machine-learning-ru-flach-p/machine-learning-ru-flach-p.pdf) — Петер Флах (pdf)
 * [Методы ансамблирования обучающихся алгоритмов](http://www.machinelearning.ru/wiki/images/5/56/Guschin2015Stacking.pdf) — диссертация А. Гущина (pdf)
 * [Построение систем машинного обучения](https://vk.com/doc190970339_437111950) — Л. П. Коэльо, В. Ричарт (2016)
 
