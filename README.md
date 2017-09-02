@@ -35,7 +35,7 @@
 * [awesome-machine-learning — A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
 * [Open Source Society University's Data Science](https://github.com/open-source-society/data-science) course – this is a solid path for those of you who want to complete a Data Science course on your own time, for free, with courses from the best universities in the World
 * [Доска по data science в Trello — проверенные материалы, организованные по темам (expertise tracks, языки программирования, различные инструменты)](https://trello.com/b/rbpEfMld/data-science)
-* [Machine Learning Resource Guide](https://www.dropbox.com/s/z4f9oer4nkyu9tf/MachineLearningResourceGuide.pdf)
+* [Machine Learning Resource Guide](https://www.pdf-archive.com/2017/09/02/machine-learning-resource-guide/machine-learning-resource-guide.pdf)
 * [17 ресурсов по машинному обучению  от Типичного Программиста](http://tproger.ru/articles/free-programming-books/#machine-learning)
 * [51 toy data problem in Data Science](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) 
 * [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) 
