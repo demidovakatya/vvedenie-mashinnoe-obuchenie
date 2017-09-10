@@ -54,6 +54,7 @@
 * [awesome-datascience-ideas - A list of awesome and proven data science use cases and applications](https://github.com/JosPolfliet/awesome-datascience-ideas/blob/master/README.md)
 * [machine-learning-surveys - A curated list of Machine Learning Surveys, Tutorials and Books](https://github.com/metrofun/machine-learning-surveys)
 * [A hands-on data science crash course in Python by Bart De Vylder and Pieter Buteneers from CoScale](https://github.com/bartdevylder/velocity-tutorial-san-jose)
+* [docker-setup - A Curated List of Docker Images for Data Science Projects, with Easy Setup](https://github.com/yang-zhang/docker-setup)
   
 ----------------------------------------------------
 
