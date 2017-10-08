@@ -12,3 +12,9 @@
 * [BigDataUniversity’s Spark Fundamentals Learning Path](https://cognitiveclass.ai/learn/spark/)
 * [Data Mining Specialization (Coursera)](https://www.coursera.org/specializations/data-mining)
 
+Tools:
+* [Apache Hadoop](http://hadoop.apache.org)
+    * [Apache HBase](http://hbase.apache.org)
+    * [Apache Hive](http://hive.apache.org) 
+* [A Python MapReduce and HDFS API for Hadoop](https://github.com/crs4/pydoop)
+
