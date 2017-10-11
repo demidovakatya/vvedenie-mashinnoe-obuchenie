@@ -24,6 +24,7 @@
 * [awesome-deep-vision – a curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision)
 * [awesome-deep-learning-papers – a curated list of the most cited deep learning papers (since 2010)](https://github.com/terryum/awesome-deep-learning-papers)
 * [Deep Learning Papers by task](https://github.com/sbrugman/deep-learning-papers)
+* [A Deep Learning toolkit for Computer Vision](https://luminoth.ai)
 * [Deep Learning Tutorials](https://github.com/subokita/DeepLearningTutorials)
 * [dl-docker – an all-in-one Docker image for deep learning (Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.))](https://github.com/saiprashanths/dl-docker)
 * [FloydHub – a Platform-as-a-Service for training and deploying your deep learning models in the cloud (Heroku for DL)](https://www.floydhub.com/)
