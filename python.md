@@ -29,6 +29,7 @@
 * [Курс по основам Python, алгоритмам и структурам данных](https://github.com/Yorko/python_intro)
 * [Программирование на Python (МФТИ/MIPT)](https://www.coursera.org/learn/programming-in-python/home/welcome)
 * [Семинары по программированию на Python для 3 курса Школы Лингвистики НИУ ВШЭ](https://github.com/elmiram/2017learnpython)
+* [The Python graph gallery: Visualizing data - with Python](https://python-graph-gallery.com/)
 
 * IPython
     * [algorithms_in_ipython_notebooks – A repository with IPython notebooks of algorithms implemented in Python](https://github.com/rasbt/algorithms_in_ipython_notebooks)
