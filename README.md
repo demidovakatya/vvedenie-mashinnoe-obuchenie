@@ -55,6 +55,7 @@
 * [machine-learning-surveys - A curated list of Machine Learning Surveys, Tutorials and Books](https://github.com/metrofun/machine-learning-surveys)
 * [A hands-on data science crash course in Python by Bart De Vylder and Pieter Buteneers from CoScale](https://github.com/bartdevylder/velocity-tutorial-san-jose)
 * [docker-setup - A Curated List of Docker Images for Data Science Projects, with Easy Setup](https://github.com/yang-zhang/docker-setup)
+* [Notes on Artificial Intelligence – конспекты по разным ML-related темам, от алгебры до Байеса](http://frnsys.com/ai_notes/) 
   
 ----------------------------------------------------
 
