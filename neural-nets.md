@@ -47,4 +47,5 @@
 * [CS 294: Deep Reinforcement Learning (Spring 2017)](https://mega.nz/#F!Ap4n2bLb!e6QZqN_npmWjE-CQldBKZw)
 * [TensorFire: Blazing fast in-browser neural networks](https://tenso.rs/demos/fast-neural-style/)
 * [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
+* [SotA-CV — A repository of state-of-the-art deep learning methods in computer vision](https://github.com/Lextal/SotA-CV)
 
