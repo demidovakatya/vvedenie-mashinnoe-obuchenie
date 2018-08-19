@@ -2,7 +2,7 @@
 
 * [Лекции по искусственным нейронным сетям — К. В. Воронцов](http://www.ccas.ru/voron/download/NeuralNets.pdf) (pdf)
 * [Нейронные сети от Института Биоинформатики](https://stepic.org/s/eg4Xe6Ry)
-* [Искусственный интеллект и машинное обучение (лекции)](https://ulearn.azurewebsites.net/Course/AIML/) — приятные и качественные лекции по широкому набору тем. Один из немногих из источников на русском языке
+* [Искусственный интеллект и машинное обучение (лекции)](https://ulearn.me/Course/AIML/) — приятные и качественные лекции по широкому набору тем. Один из немногих из источников на русском языке
 * [Neural Networks for Machine Learning (Geoffrey Hinton, University of Toronto)](https://www.coursera.org/learn/neural-networks). Цитата: «Я уже использовал фразу "живая легенда" и теперь испытываю сложности, поскольку как-то иначе охарактеризовать Джеффри Хинтона (человека, стоящего у истоков современных подходов к обучению нейросетей с помощью алгоритма обратного распространения ошибки) сложно. Курс у него получился отличный»
 * [Neural Networks and Deep Learning – бесплатная онлайн-книга по нейросетям и глубинному обучению](http://neuralnetworksanddeeplearning.com/index.html) 
 * [Neural Networks and Deep Learning (github repo)](https://github.com/mnielsen/neural-networks-and-deep-learning))
