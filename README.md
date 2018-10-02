@@ -146,6 +146,7 @@
   * [:octocat: repo on github](https://github.com/cs231n)
 * [Mining Massive Datasets (Stanford University)](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+Fall2016/about) - курс, основанный на книге Mining of Massive Datasets авторов Jure Leskovec, Anand Rajaraman, and Jeff Ullman (они же являются инструкторами этого курса)
 * [CS109: Data Science (Harvard University)](http://cs109.github.io/2015/)
+* [Foundations of Machine Learning](https://bloomberg.github.io/foml/) — a part of Bloomberg's _Machine Learning EDU_ initiative
 
 ----------------------------------------------------
 
