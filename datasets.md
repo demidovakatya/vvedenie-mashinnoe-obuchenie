@@ -10,6 +10,7 @@
 * [An awesome list of high-quality datasets from the Webhose.io repositories](https://webhose.io/datasets)
 * [IEEE Dataport datasets](https://ieee-dataport.org/documents)
 * [Wolfram Data Drop: Universal Data Accumulator](https://datadrop.wolframcloud.com/)
+* [Statistic Brain Stats and Facts Database - Stats and facts database on financial, sports, entertainment, geographic, industries](http://www.statisticbrain.com/)
 
 ## Музыка
 

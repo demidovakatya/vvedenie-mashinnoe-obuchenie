@@ -1,17 +1,21 @@
 # Визуализация данных
 
 * [awesome-dataviz – A curated list of awesome data visualization libraries and resources](https://github.com/fasouto/awesome-dataviz)
-* [Gephi – an open-source platform for visualizing and manipulating large graphs](https://github.com/gephi/gephi)
 * [Introduction to Data Visualization: Visualization Types](http://guides.library.duke.edu/datavis/vis_types)
 * [Alternative Data Visualization Libraries](http://datavizcatalogue.com/blog/other-data-visualization-libraries/)
 * [Top Data Visualization Books](https://infogr.am/blog/data-visualization-books/)
 * [Explore trends in data visualization libraries](https://www.datascience.com/trends/data-visualization?trends=5,1,6&trend_names=matplotlib+plotly+ggplot&avg=21&scaling=absolute&metric=New%20Files)
+* Graphs:
+   * [Gephi – an open-source platform for visualizing and manipulating large graphs](https://github.com/gephi/gephi)
+   * [graph-tool — a Python module for manipulation and statistical analysis of graphs](https://graph-tool.skewed.de)
 * Python:
     * [matplotlib](http://matplotlib.org)
     * [Seaborn: statistical data visualization](http://seaborn.pydata.org)
-        * [Data Visualization with Seaborn (by O'Reilly)](https://www.oreilly.com/learning/data-visualization-with-seaborn)
+      * [Data Visualization with Seaborn (by O'Reilly)](https://www.oreilly.com/learning/data-visualization-with-seaborn)
     * [Plotly's Python graphing library for interactive graphs online](https://plot.ly/python/)
+      * [Dash — a Python framework for building analytical web applications (based on Plotly, no JS required)](https://plot.ly/products/dash/)
     * [Bokeh – an interactive visualization library that targets modern web browsers for presentation](http://bokeh.pydata.org/en/latest/)
+    * [Pythonplot – Python Plotting for Exploratory Data Analysis](http://pythonplot.com/)
 * R:
     * [ggplot2](http://docs.ggplot2.org/)
         * ggplot2: Elegant Graphics for Data Analysis – Hadley Wickham (2009)
@@ -22,7 +26,10 @@
     * [Flot – a pure JavaScript plotting library for jQuery](http://www.flotcharts.org/)
     * [PlotKit – a Chart and Graph Plotting Library for Javascript](http://www.liquidx.net/plotkit/)
     * [Raphaël.js](http://dmitrybaranovskiy.github.io/raphael/)
+    * [Comparing the most popular JavaScript charting libraries](https://blog.logrocket.com/comparing-the-most-popular-javascript-charting-libraries-f76fbe59ffd0)
 * **Inspiration:** 
     * [Max Woolf's Data Portfolio](http://minimaxir.com/data-portfolio/)
     * [Data Visualization Blog](http://excelcharts.com/posts/)
     * [Overflow](http://overflow.solutions/)
+    * [The Python Graph Gallery displays hundreds of charts providing the reproducible Python code](https://python-graph-gallery.com/)
+   * [Facets: visualizations for machine learning datasets](https://pair-code.github.io/facets/)
