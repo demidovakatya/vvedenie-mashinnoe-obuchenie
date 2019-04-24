@@ -37,6 +37,7 @@
 * [Machine Learning Resource Guide](https://www.pdf-archive.com/2017/09/02/machine-learning-resource-guide/machine-learning-resource-guide.pdf)
 * [17 ресурсов по машинному обучению от Типичного Программиста](https://tproger.ru/articles/free-programming-books/#machine-learning)
 * [51 toy data problem in Data Science](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-can-be-done-over-a-weekend-by-a-single-coder-in-data-science-Im-studying-machine-learning-and-statistics-and-looking-for-something-socially-relevant-using-publicly-available-datasets-APIs/answer/Alex-Kamil) 
+* [practical-pandas-projects](https://github.com/schlende/practical-pandas-projects) — project ideas for improving one's Python data analysis skills
 * [Dive into Machine Learning](https://hangtwenty.github.io/dive-into-machine-learning/) 
   * :octocat: [Dive into Machine Learning repo on github](https://github.com/hangtwenty/dive-into-machine-learning)
 * [Data Science Interview Questions](https://www.itshared.org/2015/10/data-science-interview-questions.html) — огромный список вопросов для подготовки к интервью на позицию data scientist'а
