@@ -132,6 +132,10 @@
   * [6.002x: Introduction to Computational Thinking and Data Science (MIT)](https://www.edx.org/course/introduction-to-computational-thinking-and-data-science-2)
   * [6.041x: Introduction to Probability - The Science of Uncertainty (MIT)](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
   * [The Analytics Edge (MIT)](https://www.edx.org/course/the-analytics-edge-0)
+* Intellipaat:
+  * [Intellipaat's Data Analytics Course](https://intellipaat.com/data-analytics-master-training-course/)
+  * [AI Course](https://intellipaat.com/artificial-intelligence-deep-learning-course-with-tensorflow/)
+  * [Introduction to Artificial Intelligence](https://intellipaat.com/blog/tutorial/artificial-intelligence-tutorial/introduction-to-ai/)
 * [Learning from Data (Caltech)](https://work.caltech.edu/telecourse.html) – введение в машинное обучение (основная теория, алгоритмы и области практического применения)
 * [Видеозаписи лекций Школы Анализа Данных (ШАД)](https://yandexdataschool.ru/edu-process/courses)
   * [Видеолекции курса «Машинное обучение» (К. В. Воронцов, ШАД)](https://yandexdataschool.ru/edu-process/courses/machine-learning)
